@@ -1,0 +1,5 @@
+dataset,rows,columns,duplicate_rows,missing_cells
+Argentina,50,25,0,0
+Brazil,50,25,0,0
+Optical features,100,25,0,0
+SAR field samples,100,27,0,200
