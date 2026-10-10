@@ -1,4 +1,4 @@
-# SAR–Optical Feature Fusion for Crop Type Classification
+# SAR-Optical Feature Fusion for Crop Type Classification
 
 **Multimodal Remote Sensing | Digital Image Processing | Agricultural Computer Vision**
 
@@ -60,7 +60,7 @@ The current analysis uses 100 optical sample records from Argentina and Brazil.
 
 NDVI was calculated from the Sentinel-2 red (B04) and near-infrared (B08) bands and verified against the supplied values. Exploratory visualizations were generated to examine NDVI distributions, crop-wise variation, and spectral band distributions.
 
-The Sentinel-1 component has been explored using a two-band VV/VH test raster. Field-level SAR–optical matching and the final fused feature table remain part of the ongoing implementation.
+The Sentinel-1 component has been explored using a two-band VV/VH test raster. Field-level SAR-optical matching and the final fused feature table remain part of the ongoing implementation.
 
 ## Technology Stack
 
