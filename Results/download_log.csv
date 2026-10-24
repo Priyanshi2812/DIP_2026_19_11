@@ -1,0 +1,1505 @@
+field,status,n_dates,MB,relative_orbit,first_date,last_date
+Argentina_DUP1_farm15_field119_soybean_2017,ok,14,4.8,141,20161221,20170526
+Argentina_DUP1_farm15_field120_soybean_2017,ok,12,4.81,39,20161114,20170326
+Argentina_DUP1_farm15_field121_soybean_2017,ok,12,4.8,39,20161102,20170314
+Argentina_DUP1_farm15_field122_soybean_2017,ok,14,4.79,141,20161115,20170420
+Argentina_DUP1_farm15_field123_soybean_2017,ok,13,4.8,141,20161209,20170502
+Argentina_DUP1_farm27_field286_soybean_2017,ok,21,4.82,68,20161110,20170427
+Argentina_DUP1_farm27_field288_soybean_2017,ok,21,4.83,68,20161110,20170427
+Argentina_DUP1_farm45_field572_corn_2017,ok,28,4.82,141,20160928,20170321
+Argentina_DUP1_farm45_field584_corn_2017,ok,27,4.81,141,20160928,20170309
+Argentina_DUP1_farm45_field595_corn_2017,ok,16,4.81,141,20160928,20170408
+Argentina_DUP1_farm45_field598_corn_2017,ok,32,4.82,141,20160928,20170414
+Argentina_DUP1_farm45_field602_corn_2017,ok,29,4.8,141,20160928,20170327
+Argentina_DUP1_farm45_field609_corn_2017,ok,28,4.26,141,20160928,20170321
+Argentina_DUP1_farm45_field610_corn_2017,ok,32,4.82,141,20160928,20170414
+Argentina_DUP1_farm45_field620_corn_2017,ok,28,4.82,141,20160928,20170321
+Argentina_DUP1_farm45_field621_corn_2017,ok,27,4.82,141,20160928,20170309
+Argentina_DUP1_farm45_field632_wheat_2017,ok,29,4.76,141,20170607,20171210
+Argentina_DUP1_farm45_field636_wheat_2017,ok,29,4.76,141,20170607,20171210
+Argentina_DUP1_farm45_field640_wheat_2017,ok,26,4.76,141,20170625,20171204
+Argentina_DUP1_farm45_field646_wheat_2017,ok,29,4.76,141,20170607,20171210
+Argentina_DUP1_farm45_field654_wheat_2017,ok,27,4.77,141,20170613,20171204
+Argentina_DUP1_farm48_field658_wheat_2017,ok,12,4.74,76,20170726,20171205
+Argentina_DUP1_farm15_field125_soybean_2018,ok,13,4.79,39,20171028,20180321
+Argentina_DUP1_farm15_field126_soybean_2018,ok,13,4.77,76,20171030,20180404
+Argentina_DUP1_farm15_field127_soybean_2018,ok,12,4.75,76,20171205,20180416
+Argentina_DUP1_farm15_field128_soybean_2018,ok,11,4.8,39,20171109,20180309
+Argentina_DUP1_farm15_field129_soybean_2018,ok,8,4.79,39,20171215,20180309
+Argentina_DUP1_farm15_field130_soybean_2018,ok,7,4.81,39,20171227,20180309
+Argentina_DUP1_farm15_field131_soybean_2018,ok,10,4.82,39,20171121,20180309
+Argentina_DUP1_farm17_field167_soybean_2018,ok,11,4.8,76,20171123,20180323
+Argentina_DUP1_farm17_field168_soybean_2018,ok,13,4.78,76,20171229,20180522
+Argentina_DUP1_farm18_field193_soybean_2018,ok,12,4.78,39,20171215,20180426
+Argentina_DUP1_farm38_field413_soybean_2018,ok,25,4.81,141,20171110,20180409
+Argentina_DUP1_farm38_field414_soybean_2018,ok,24,4.82,141,20171116,20180409
+Argentina_DUP1_farm3_field54_wheat_2018,ok,14,4.76,68,20180621,20181124
+Argentina_DUP1_farm44_field445_soybean_2018,ok,22,4.79,39,20171121,20180402
+Argentina_DUP1_farm44_field449_wheat_2018,ok,18,4.76,39,20180613,20181104
+Argentina_DUP1_farm44_field454_wheat_2018,ok,23,4.79,39,20180526,20181116
+Argentina_DUP1_farm44_field458_soybean_2018,ok,28,4.82,39,20171103,20180420
+Argentina_DUP1_farm44_field460_corn_2018,ok,24,4.81,39,20170928,20180219
+Argentina_DUP1_farm44_field465_wheat_2018,ok,23,4.78,39,20180526,20181116
+Argentina_DUP1_farm44_field471_soybean_2018,ok,25,4.79,39,20171115,20180414
+Argentina_DUP1_farm44_field474_wheat_2018,ok,23,4.78,39,20180526,20181116
+Argentina_DUP1_farm44_field479_wheat_2018,ok,21,4.77,39,20180613,20181122
+Argentina_DUP1_farm44_field482_soybean_2018,ok,29,4.82,39,20171121,20180514
+Argentina_DUP1_farm44_field484_soybean_2018,ok,25,4.8,39,20171115,20180414
+Argentina_DUP1_farm44_field488_soybean_2018,ok,29,4.83,39,20171121,20180514
+Argentina_DUP1_farm44_field491_soybean_2018,ok,23,4.77,39,20171121,20180408
+Argentina_DUP1_farm44_field498_soybean_2018,ok,25,4.8,39,20171115,20180414
+Argentina_DUP1_farm44_field503_soybean_2018,ok,26,4.8,39,20171028,20180402
+Argentina_DUP1_farm44_field512_soybean_2018,ok,32,4.81,39,20171103,20180514
+Argentina_DUP1_farm44_field515_soybean_2018,ok,26,4.8,39,20171109,20180414
+Argentina_DUP1_farm44_field520_soybean_2018,ok,29,4.81,39,20171016,20180408
+Argentina_DUP1_farm44_field522_corn_2018,ok,29,4.81,39,20170910,20180309
+Argentina_DUP1_farm44_field528_soybean_2018,ok,25,4.8,39,20171028,20180327
+Argentina_DUP1_farm44_field538_wheat_2018,ok,22,4.77,39,20180514,20181104
+Argentina_DUP1_farm44_field547_soybean_2018,ok,26,4.78,39,20171103,20180408
+Argentina_DUP1_farm44_field550_wheat_2018,ok,25,4.8,39,20180508,20181116
+Argentina_DUP1_farm44_field555_wheat_2018,ok,21,4.77,39,20180526,20181104
+Argentina_DUP1_farm44_field557_corn_2018,ok,38,4.82,39,20171215,20180731
+Argentina_DUP1_farm44_field560_wheat_2018,ok,23,4.79,39,20180514,20181110
+Argentina_DUP1_farm44_field562_soybean_2018,ok,30,4.8,39,20171115,20180514
+Argentina_DUP1_farm44_field570_corn_2018,ok,27,4.79,39,20170910,20180225
+Argentina_DUP1_farm45_field626_corn_2018,ok,18,4.78,68,20171117,20180609
+Argentina_DUP1_farm45_field638_corn_2018,ok,31,4.82,141,20171005,20180409
+Argentina_DUP1_farm45_field642_corn_2018,ok,19,4.77,68,20171117,20180621
+Argentina_DUP1_farm45_field652_corn_2018,ok,26,4.37,141,20171005,20180521
+Argentina_DUP1_farm54_field731_wheat_2018,ok,21,4.78,39,20180607,20181116
+Argentina_DUP1_farm54_field738_wheat_2018,ok,23,4.79,39,20180613,20181204
+Argentina_DUP1_farm54_field739_soybean_2018,ok,21,4.78,39,20171121,20180327
+Argentina_DUP1_farm15_field132_soybean_2019,ok,12,4.81,141,20181105,20190317
+Argentina_DUP1_farm15_field133_soybean_2019,ok,11,4.83,39,20181210,20190409
+Argentina_DUP1_farm15_field134_soybean_2019,ok,10,4.85,39,20181222,20190409
+Argentina_DUP1_farm15_field135_soybean_2019,ok,14,4.83,39,20181116,20190421
+Argentina_DUP1_farm15_field136_soybean_2019,ok,12,4.8,141,20181223,20190504
+Argentina_DUP1_farm15_field137_soybean_2019,ok,10,4.83,39,20181222,20190409
+Argentina_DUP1_farm17_field169_soybean_2019,ok,21,4.82,141,20181111,20190323
+Argentina_DUP1_farm17_field170_soybean_2019,ok,10,4.82,141,20181117,20190317
+Argentina_DUP1_farm17_field171_soybean_2019,ok,10,4.81,141,20181117,20190317
+Argentina_DUP1_farm17_field172_soybean_2019,ok,11,4.81,141,20181117,20190329
+Argentina_DUP1_farm17_field173_soybean_2019,ok,10,4.82,141,20181117,20190317
+Argentina_DUP1_farm17_field177_soybean_2019,ok,10,4.8,68,20181218,20190417
+Argentina_DUP1_farm17_field182_soybean_2019,ok,13,4.81,39,20181116,20190409
+Argentina_DUP1_farm17_field186_soybean_2019,ok,13,4.81,39,20181116,20190409
+Argentina_DUP1_farm17_field191_soybean_2019,ok,13,4.81,39,20181116,20190409
+Argentina_DUP1_farm17_field192_soybean_2019,ok,13,4.8,39,20181116,20190409
+Argentina_DUP1_farm23_field218_soybean_2019,ok,27,4.86,141,20181018,20190410
+Argentina_DUP1_farm23_field225_soybean_2019,ok,20,4.86,141,20181211,20190416
+Argentina_DUP1_farm23_field233_soybean_2019,ok,10,4.87,141,20181211,20190410
+Argentina_DUP1_farm43_field443_corn_2019,ok,12,4.78,141,20181012,20190305
+Argentina_DUP1_farm44_field455_soybean_2019,ok,24,4.85,39,20181128,20190415
+Argentina_DUP1_farm44_field463_soybean_2019,ok,29,4.87,39,20181128,20190515
+Argentina_DUP1_farm44_field469_soybean_2019,ok,23,4.83,39,20181204,20190415
+Argentina_DUP1_farm44_field470_soybean_2019,ok,28,4.87,39,20181116,20190427
+Argentina_DUP1_farm44_field472_soybean_2019,ok,28,4.86,39,20181204,20190515
+Argentina_DUP1_farm44_field476_soybean_2019,ok,24,4.84,39,20181122,20190409
+Argentina_DUP1_farm44_field481_soybean_2019,ok,23,4.88,39,20181122,20190403
+Argentina_DUP1_farm44_field494_corn_2019,ok,23,4.82,39,20180929,20190220
+Argentina_DUP1_farm44_field502_soybean_2019,ok,28,4.87,39,20181128,20190509
+Argentina_DUP1_farm44_field504_soybean_2019,ok,26,4.85,39,20181110,20190409
+Argentina_DUP1_farm44_field508_soybean_2019,ok,26,4.83,39,20181116,20190415
+Argentina_DUP1_farm44_field510_soybean_2019,ok,26,4.86,39,20181110,20190409
+Argentina_DUP1_farm44_field514_corn_2019,ok,35,4.84,39,20181216,20190708
+Argentina_DUP1_farm44_field536_soybean_2019,ok,27,4.85,39,20181029,20190403
+Argentina_DUP1_farm44_field541_soybean_2019,ok,25,4.84,39,20181116,20190409
+Argentina_DUP1_farm44_field549_soybean_2019,ok,25,4.86,39,20181110,20190403
+Argentina_DUP1_farm44_field565_corn_2019,ok,34,4.86,39,20181228,20190714
+Argentina_DUP1_farm44_field566_soybean_2019,ok,29,4.84,39,20181116,20190503
+Argentina_DUP1_farm44_field567_soybean_2019,ok,27,4.82,39,20181104,20190409
+Argentina_DUP1_farm44_field569_corn_2019,ok,23,4.83,39,20180917,20190214
+Argentina_DUP1_farm44_field571_soybean_2019,ok,30,4.88,39,20181110,20190503
+Argentina_DUP1_farm45_field577_wheat_2019,ok,31,4.8,141,20190603,20191130
+Argentina_DUP1_farm45_field583_wheat_2019,ok,15,4.75,141,20190609,20191124
+Argentina_DUP1_farm45_field588_wheat_2019,ok,27,4.8,141,20190703,20191206
+Argentina_DUP1_farm45_field601_wheat_2019,ok,27,4.81,141,20190703,20191206
+Argentina_DUP1_farm45_field615_wheat_2019,ok,14,4.75,141,20190703,20191206
+Argentina_DUP1_farm54_field732_corn_2019,ok,52,4.86,39,20181011,20190819
+Argentina_DUP1_farm54_field734_corn_2019,ok,21,4.82,39,20181011,20190214
+Argentina_DUP1_farm54_field737_soybean_2019,ok,32,4.85,39,20181116,20190521
+Argentina_DUP1_farm9_field88_wheat_2019,ok,25,4.78,141,20190709,20191130
+Argentina_DUP1_farm15_field138_soybean_2020,ok,10,4.84,39,20191217,20200403
+Argentina_DUP1_farm15_field139_soybean_2020,ok,10,4.84,39,20191217,20200403
+Argentina_DUP1_farm15_field140_soybean_2020,ok,13,4.82,39,20191030,20200322
+Argentina_DUP1_farm15_field141_soybean_2020,ok,10,4.83,39,20191217,20200403
+Argentina_DUP1_farm15_field142_soybean_2020,ok,8,4.85,39,20191217,20200310
+Argentina_DUP1_farm15_field143_soybean_2020,ok,13,4.82,39,20191030,20200322
+Argentina_DUP1_farm15_field144_soybean_2020,ok,11,4.8,141,20191218,20200416
+Argentina_DUP1_farm15_field145_soybean_2020,ok,12,4.81,39,20191111,20200322
+Argentina_DUP1_farm17_field174_soybean_2020,ok,14,4.8,141,20191112,20200416
+Argentina_DUP1_farm17_field178_soybean_2020,ok,14,4.81,39,20191111,20200415
+Argentina_DUP1_farm17_field179_soybean_2020,ok,14,4.79,39,20191111,20200415
+Argentina_DUP1_farm17_field180_soybean_2020,ok,14,4.8,39,20191111,20200415
+Argentina_DUP1_farm17_field181_soybean_2020,ok,14,4.8,39,20191111,20200415
+Argentina_DUP1_farm23_field226_soybean_2020,ok,27,4.81,68,20191026,20200405
+Argentina_DUP1_farm23_field227_soybean_2020,ok,25,4.83,68,20191026,20200324
+Argentina_DUP1_farm23_field228_soybean_2020,ok,27,4.71,141,20191106,20200410
+Argentina_DUP1_farm23_field229_soybean_2020,ok,24,4.85,141,20191218,20200504
+Argentina_DUP1_farm27_field289_soybean_2020,ok,30,4.82,68,20191107,20200505
+Argentina_DUP1_farm27_field290_soybean_2020,ok,31,4.83,68,20191101,20200505
+Argentina_DUP1_farm27_field291_soybean_2020,ok,29,4.8,68,20191026,20200417
+Argentina_DUP1_farm27_field292_soybean_2020,ok,28,4.8,68,20191020,20200405
+Argentina_DUP1_farm27_field293_soybean_2020,ok,31,4.8,68,20191101,20200505
+Argentina_DUP1_farm27_field294_soybean_2020,ok,30,4.82,68,20191107,20200505
+Argentina_DUP1_farm27_field295_soybean_2020,ok,30,4.81,68,20191101,20200429
+Argentina_DUP1_farm27_field297_soybean_2020,ok,31,4.82,68,20191101,20200505
+Argentina_DUP1_farm27_field301_soybean_2020,ok,29,4.81,68,20191020,20200411
+Argentina_DUP1_farm27_field302_soybean_2020,ok,30,4.79,68,20191014,20200411
+Argentina_DUP1_farm27_field303_soybean_2020,ok,29,4.8,68,20191026,20200417
+Argentina_DUP1_farm27_field304_soybean_2020,ok,30,4.8,68,20191107,20200505
+Argentina_DUP1_farm27_field305_soybean_2020,ok,28,4.82,68,20191101,20200417
+Argentina_DUP1_farm27_field306_soybean_2020,ok,30,4.82,68,20191107,20200505
+Argentina_DUP1_farm27_field307_soybean_2020,ok,28,4.8,68,20191026,20200411
+Argentina_DUP1_farm27_field308_soybean_2020,ok,29,4.8,68,20191026,20200417
+Argentina_DUP1_farm37_field403_soybean_2020,ok,19,4.82,68,20191207,20200330
+Argentina_DUP1_farm37_field404_soybean_2020,ok,22,4.83,68,20191207,20200417
+Argentina_DUP1_farm37_field405_soybean_2020,ok,22,4.82,68,20191207,20200417
+Argentina_DUP1_farm37_field406_soybean_2020,ok,20,4.82,68,20191207,20200405
+Argentina_DUP1_farm37_field407_soybean_2020,ok,25,4.82,68,20191207,20200505
+Argentina_DUP1_farm37_field408_soybean_2020,ok,20,4.81,68,20191207,20200405
+Argentina_DUP1_farm40_field431_wheat_2020,ok,29,4.8,141,20200621,20201206
+Argentina_DUP1_farm42_field434_wheat_2020,ok,27,4.67,39,20200602,20201105
+Argentina_DUP1_farm44_field446_soybean_2020,ok,27,4.82,39,20191111,20200415
+Argentina_DUP1_farm44_field447_wheat_2020,ok,30,4.68,39,20200602,20201123
+Argentina_DUP1_farm44_field448_corn_2020,ok,47,4.85,39,20191024,20200726
+Argentina_DUP1_farm44_field452_soybean_2020,ok,26,4.84,39,20191205,20200503
+Argentina_DUP1_farm44_field462_soybean_2020,ok,24,4.83,39,20191123,20200409
+Argentina_DUP1_farm44_field464_soybean_2020,ok,29,4.83,39,20191111,20200427
+Argentina_DUP1_farm44_field466_soybean_2020,ok,26,4.85,39,20191123,20200421
+Argentina_DUP1_farm44_field467_wheat_2020,ok,30,4.69,39,20200521,20201111
+Argentina_DUP1_farm44_field475_wheat_2020,ok,27,4.67,39,20200620,20201123
+Argentina_DUP1_farm44_field477_soybean_2020,ok,28,4.84,39,20191111,20200421
+Argentina_DUP1_farm44_field480_wheat_2020,ok,30,4.68,39,20200521,20201111
+Argentina_DUP1_farm44_field489_wheat_2020,ok,32,4.69,39,20200602,20201205
+Argentina_DUP1_farm44_field495_wheat_2020,ok,32,4.69,39,20200515,20201117
+Argentina_DUP1_farm44_field497_soybean_2020,ok,30,4.83,39,20191117,20200509
+Argentina_DUP1_farm44_field500_soybean_2020,ok,27,4.83,39,20191123,20200427
+Argentina_DUP1_farm44_field501_wheat_2020,ok,31,4.7,39,20200515,20201111
+Argentina_DUP1_farm44_field511_soybean_2020,ok,25,4.83,39,20191105,20200328
+Argentina_DUP1_farm44_field513_soybean_2020,ok,26,4.82,39,20191024,20200322
+Argentina_DUP1_farm44_field516_wheat_2020,ok,28,4.68,39,20200602,20201111
+Argentina_DUP1_farm44_field517_soybean_2020,ok,26,4.84,39,20191105,20200403
+Argentina_DUP1_farm44_field518_soybean_2020,ok,28,4.83,39,20191111,20200421
+Argentina_DUP1_farm44_field519_soybean_2020,ok,30,4.8,39,20191006,20200328
+Argentina_DUP1_farm44_field524_wheat_2020,ok,34,4.71,39,20200503,20201117
+Argentina_DUP1_farm44_field525_wheat_2020,ok,31,4.69,39,20200515,20201111
+Argentina_DUP1_farm44_field529_corn_2020,ok,35,4.82,39,20191217,20200708
+Argentina_DUP1_farm44_field532_corn_2020,ok,30,4.81,39,20190906,20200227
+Argentina_DUP1_farm44_field533_soybean_2020,ok,28,4.84,39,20191105,20200415
+Argentina_DUP1_farm44_field535_wheat_2020,ok,30,4.69,39,20200608,20201129
+Argentina_DUP1_farm44_field539_soybean_2020,ok,30,4.82,39,20191024,20200415
+Argentina_DUP1_farm44_field543_soybean_2020,ok,28,4.81,39,20191117,20200427
+Argentina_DUP1_farm44_field544_soybean_2020,ok,23,4.8,39,20191123,20200403
+Argentina_DUP1_farm44_field545_wheat_2020,ok,33,4.71,39,20200515,20201123
+Argentina_DUP1_farm44_field554_corn_2020,ok,39,4.81,39,20191211,20200726
+Argentina_DUP1_farm44_field556_soybean_2020,ok,26,4.8,39,20191105,20200403
+Argentina_DUP1_farm44_field563_wheat_2020,ok,31,4.71,39,20200515,20201111
+Argentina_DUP1_farm44_field564_wheat_2020,ok,33,4.72,39,20200515,20201123
+Argentina_DUP1_farm44_field568_wheat_2020,ok,31,4.69,39,20200515,20201111
+Argentina_DUP1_farm45_field574_corn_2020,ok,29,4.66,141,20190919,20200305
+Argentina_DUP1_farm45_field576_wheat_2020,ok,27,4.77,141,20200703,20201206
+Argentina_DUP1_farm45_field578_wheat_2020,ok,25,4.79,68,20200704,20201207
+Argentina_DUP1_farm45_field579_wheat_2020,ok,31,4.77,141,20200609,20201206
+Argentina_DUP1_farm45_field580_wheat_2020,ok,28,4.77,141,20200627,20201206
+Argentina_DUP1_farm45_field582_wheat_2020,ok,31,4.77,141,20200609,20201206
+Argentina_DUP1_farm45_field589_corn_2020,ok,35,4.85,141,20190925,20200416
+Argentina_DUP1_farm45_field592_corn_2020,ok,29,4.81,68,20191014,20200411
+Argentina_DUP1_farm45_field593_corn_2020,ok,35,4.83,141,20190925,20200416
+Argentina_DUP1_farm45_field594_wheat_2020,ok,30,4.78,141,20200609,20201130
+Argentina_DUP1_farm45_field596_corn_2020,ok,35,4.86,141,20190925,20200416
+Argentina_DUP1_farm45_field599_wheat_2020,ok,32,4.71,141,20200603,20201206
+Argentina_DUP1_farm45_field604_corn_2020,ok,35,4.86,141,20190925,20200416
+Argentina_DUP1_farm45_field605_corn_2020,ok,27,3.99,141,20190919,20200323
+Argentina_DUP1_farm45_field607_wheat_2020,ok,28,4.78,141,20200627,20201206
+Argentina_DUP1_farm45_field612_wheat_2020,ok,28,4.77,141,20200703,20201212
+Argentina_DUP1_farm45_field613_wheat_2020,ok,32,4.77,141,20200603,20201206
+Argentina_DUP1_farm45_field614_corn_2020,ok,35,4.84,141,20190925,20200416
+Argentina_DUP1_farm49_field659_corn_2020,ok,27,4.79,39,20191024,20200328
+Argentina_DUP1_farm52_field686_soybean_2020,ok,12,4.75,141,20191224,20200504
+Argentina_DUP1_farm52_field687_soybean_2020,ok,12,4.76,141,20191224,20200504
+Argentina_DUP1_farm52_field688_soybean_2020,ok,12,4.76,141,20191224,20200504
+Argentina_DUP1_farm52_field689_soybean_2020,ok,12,4.76,141,20191224,20200504
+Argentina_DUP1_farm52_field690_soybean_2020,ok,12,4.76,141,20191224,20200504
+Argentina_DUP1_farm52_field691_soybean_2020,ok,12,4.77,39,20191229,20200509
+Argentina_DUP1_farm52_field692_soybean_2020,ok,13,4.79,39,20191123,20200415
+Argentina_DUP1_farm52_field704_soybean_2020,ok,12,4.76,141,20191224,20200504
+Argentina_DUP1_farm52_field708_soybean_2020,ok,12,4.8,39,20191217,20200427
+Argentina_DUP1_farm52_field709_soybean_2020,ok,12,4.78,39,20191217,20200427
+Argentina_DUP1_farm52_field710_soybean_2020,ok,12,4.75,141,20191224,20200504
+Argentina_DUP1_farm54_field730_wheat_2020,ok,28,4.68,39,20200608,20201117
+Argentina_DUP1_farm54_field733_wheat_2020,ok,29,4.68,39,20200602,20201117
+Argentina_DUP1_farm54_field740_soybean_2020,ok,22,4.83,39,20191129,20200403
+Argentina_DUP1_farm54_field742_wheat_2020,ok,29,4.69,39,20200527,20201111
+Argentina_DUP1_farm54_field743_soybean_2020,ok,22,4.83,39,20191129,20200403
+Argentina_DUP1_farm9_field89_wheat_2020,ok,30,4.79,141,20200615,20201206
+Argentina_DUP1_farm9_field90_wheat_2020,ok,31,4.78,141,20200615,20201212
+Argentina_DUP1_farm9_field91_soybean_2020,ok,25,4.83,141,20191218,20200510
+Argentina_DUP1_farm15_field146_soybean_2021,ok,14,4.81,39,20201024,20210329
+Argentina_DUP1_farm15_field147_soybean_2021,ok,13,4.81,39,20201211,20210504
+Argentina_DUP1_farm15_field148_soybean_2021,ok,13,4.82,39,20201105,20210329
+Argentina_DUP1_farm15_field149_soybean_2021,ok,12,4.82,39,20201223,20210504
+Argentina_DUP1_farm15_field150_soybean_2021,ok,13,4.81,39,20201105,20210329
+Argentina_DUP1_farm16_field155_soybean_2021,ok,24,4.86,39,20201205,20210422
+Argentina_DUP1_farm16_field158_soybean_2021,ok,28,4.87,39,20201105,20210416
+Argentina_DUP1_farm16_field159_soybean_2021,ok,26,4.86,39,20201129,20210428
+Argentina_DUP1_farm17_field164_soybean_2021,ok,14,4.69,141,20201118,20210423
+Argentina_DUP1_farm17_field165_soybean_2021,ok,14,4.69,141,20201118,20210423
+Argentina_DUP1_farm17_field166_soybean_2021,ok,14,4.7,141,20201118,20210423
+Argentina_DUP1_farm17_field175_soybean_2021,ok,26,4.8,68,20201107,20210412
+Argentina_DUP1_farm17_field176_soybean_2021,ok,27,4.8,141,20201112,20210417
+Argentina_DUP1_farm17_field183_soybean_2021,ok,27,4.79,141,20201106,20210411
+Argentina_DUP1_farm17_field185_soybean_2021,ok,23,4.79,141,20201218,20210429
+Argentina_DUP1_farm17_field188_soybean_2021,ok,30,4.8,141,20201106,20210429
+Argentina_DUP1_farm17_field189_soybean_2021,ok,23,4.78,141,20201218,20210429
+Argentina_DUP1_farm17_field190_soybean_2021,ok,16,4.83,39,20201024,20210422
+Argentina_DUP1_farm19_field202_wheat_2021,ok,32,4.76,141,20210529,20211213
+Argentina_DUP1_farm19_field203_wheat_2021,ok,30,4.76,141,20210604,20211207
+Argentina_DUP1_farm19_field204_wheat_2021,ok,29,4.77,141,20210616,20211213
+Argentina_DUP1_farm19_field205_wheat_2021,ok,29,4.77,141,20210616,20211213
+Argentina_DUP1_farm1_field5_wheat_2021,ok,14,4.76,141,20210610,20211125
+Argentina_DUP1_farm1_field6_wheat_2021,ok,14,4.75,141,20210610,20211125
+Argentina_DUP1_farm21_field210_wheat_2021,ok,14,4.73,141,20210610,20211125
+Argentina_DUP1_farm23_field219_soybean_2021,ok,28,4.79,141,20201019,20210330
+Argentina_DUP1_farm23_field220_soybean_2021,ok,24,3.79,141,20201218,20210511
+Argentina_DUP1_farm23_field221_soybean_2021,ok,25,4.8,68,20201213,20210512
+Argentina_DUP1_farm23_field222_soybean_2021,ok,23,4.81,68,20201213,20210424
+Argentina_DUP1_farm23_field223_soybean_2021,ok,25,4.79,141,20201212,20210505
+Argentina_DUP1_farm23_field224_soybean_2021,ok,25,4.78,141,20201212,20210505
+Argentina_DUP1_farm23_field230_soybean_2021,ok,24,4.8,141,20201218,20210505
+Argentina_DUP1_farm23_field231_soybean_2021,ok,23,4.8,141,20201218,20210429
+Argentina_DUP1_farm23_field232_soybean_2021,ok,23,4.81,141,20201218,20210429
+Argentina_DUP1_farm24_field234_corn_2021,ok,29,4.8,68,20201225,20210629
+Argentina_DUP1_farm24_field235_corn_2021,ok,28,4.81,68,20200926,20210307
+Argentina_DUP1_farm24_field236_wheat_2021,ok,24,4.77,68,20210629,20211202
+Argentina_DUP1_farm24_field237_wheat_2021,ok,25,4.76,68,20210629,20211208
+Argentina_DUP1_farm24_field238_corn_2021,ok,44,4.82,68,20200926,20210629
+Argentina_DUP1_farm24_field239_corn_2021,ok,44,4.85,68,20200926,20210629
+Argentina_DUP1_farm27_field270_soybean_2021,ok,29,4.81,68,20201020,20210412
+Argentina_DUP1_farm27_field271_soybean_2021,ok,29,4.79,68,20201020,20210412
+Argentina_DUP1_farm27_field272_soybean_2021,ok,27,4.78,68,20201026,20210406
+Argentina_DUP1_farm27_field273_soybean_2021,ok,28,4.81,68,20201014,20210331
+Argentina_DUP1_farm27_field274_soybean_2021,ok,28,4.81,68,20201026,20210412
+Argentina_DUP1_farm27_field275_soybean_2021,ok,26,4.8,68,20201101,20210406
+Argentina_DUP1_farm27_field276_soybean_2021,ok,26,4.82,68,20201026,20210331
+Argentina_DUP1_farm27_field277_soybean_2021,ok,29,4.79,68,20201020,20210412
+Argentina_DUP1_farm27_field278_soybean_2021,ok,27,4.82,68,20201020,20210331
+Argentina_DUP1_farm27_field279_soybean_2021,ok,27,4.8,68,20201020,20210331
+Argentina_DUP1_farm27_field280_soybean_2021,ok,28,4.81,68,20201014,20210331
+Argentina_DUP1_farm27_field281_soybean_2021,ok,28,4.82,68,20201014,20210331
+Argentina_DUP1_farm27_field282_soybean_2021,ok,28,4.81,68,20201101,20210418
+Argentina_DUP1_farm27_field283_soybean_2021,ok,28,4.81,68,20201101,20210418
+Argentina_DUP1_farm27_field284_soybean_2021,ok,28,4.81,68,20201101,20210418
+Argentina_DUP1_farm27_field285_soybean_2021,ok,27,4.77,68,20201107,20210418
+Argentina_DUP1_farm27_field309_soybean_2021,ok,33,4.81,68,20201014,20210430
+Argentina_DUP1_farm27_field310_soybean_2021,ok,32,4.79,68,20201020,20210430
+Argentina_DUP1_farm27_field311_soybean_2021,ok,32,4.78,68,20201014,20210424
+Argentina_DUP1_farm27_field312_soybean_2021,ok,32,4.83,68,20201014,20210424
+Argentina_DUP1_farm28_field314_wheat_2021,ok,29,4.76,39,20210528,20211118
+Argentina_DUP1_farm28_field315_soybean_2021,ok,26,4.87,39,20201129,20210428
+Argentina_DUP1_farm28_field317_soybean_2021,ok,26,4.86,39,20201129,20210428
+Argentina_DUP1_farm33_field342_wheat_2021,ok,13,4.73,39,20210609,20211206
+Argentina_DUP1_farm36_field358_corn_2021,ok,22,4.84,10,20201203,20210812
+Argentina_DUP1_farm36_field359_corn_2021,ok,17,4.82,10,20210120,20210731
+Argentina_DUP1_farm36_field360_corn_2021,ok,16,4.81,10,20210120,20210719
+Argentina_DUP1_farm36_field361_corn_2021,ok,16,4.8,76,20210112,20210711
+Argentina_DUP1_farm36_field362_corn_2021,ok,16,4.8,76,20210112,20210711
+Argentina_DUP1_farm36_field363_corn_2021,ok,16,4.82,10,20210120,20210719
+Argentina_DUP1_farm36_field364_corn_2021,ok,17,4.82,10,20210108,20210719
+Argentina_DUP1_farm36_field365_corn_2021,ok,17,4.78,76,20210112,20210723
+Argentina_DUP1_farm36_field366_corn_2021,ok,16,4.83,10,20210120,20210719
+Argentina_DUP1_farm36_field367_corn_2021,ok,16,4.83,10,20210120,20210719
+Argentina_DUP1_farm36_field368_corn_2021,ok,16,4.79,76,20210112,20210711
+Argentina_DUP1_farm37_field393_soybean_2021,ok,18,4.83,68,20201219,20210331
+Argentina_DUP1_farm37_field394_soybean_2021,ok,27,4.84,68,20201026,20210331
+Argentina_DUP1_farm37_field395_soybean_2021,ok,27,4.84,68,20201026,20210331
+Argentina_DUP1_farm37_field396_soybean_2021,ok,23,4.82,68,20201219,20210430
+Argentina_DUP1_farm37_field397_soybean_2021,ok,23,4.82,68,20201219,20210430
+Argentina_DUP1_farm37_field409_soybean_2021,ok,23,4.81,68,20201219,20210430
+Argentina_DUP1_farm37_field410_soybean_2021,ok,23,4.81,68,20201219,20210430
+Argentina_DUP1_farm37_field411_soybean_2021,ok,23,4.81,68,20201219,20210430
+Argentina_DUP1_farm37_field412_soybean_2021,ok,27,4.83,68,20201026,20210331
+Argentina_DUP1_farm38_field415_soybean_2021,ok,28,4.81,141,20201031,20210411
+Argentina_DUP1_farm38_field416_soybean_2021,ok,28,4.78,141,20201031,20210411
+Argentina_DUP1_farm42_field440_soybean_2021,ok,23,4.82,39,20201205,20210416
+Argentina_DUP1_farm44_field444_soybean_2021,ok,27,4.85,39,20201117,20210422
+Argentina_DUP1_farm44_field450_corn_2021,ok,49,4.84,39,20201012,20210727
+Argentina_DUP1_farm44_field451_soybean_2021,ok,27,4.85,39,20201205,20210510
+Argentina_DUP1_farm44_field453_wheat_2021,ok,28,4.77,39,20210522,20211106
+Argentina_DUP1_farm44_field456_soybean_2021,ok,27,4.83,39,20201111,20210416
+Argentina_DUP1_farm44_field457_wheat_2021,ok,29,4.77,39,20210609,20211130
+Argentina_DUP1_farm44_field459_wheat_2021,ok,33,4.77,39,20210510,20211124
+Argentina_DUP1_farm44_field461_wheat_2021,ok,29,4.76,39,20210528,20211118
+Argentina_DUP1_farm44_field468_wheat_2021,ok,29,4.75,39,20210528,20211118
+Argentina_DUP1_farm44_field473_corn_2021,ok,48,4.84,39,20201018,20210727
+Argentina_DUP1_farm44_field478_soybean_2021,ok,23,4.85,39,20201123,20210404
+Argentina_DUP1_farm44_field483_wheat_2021,ok,28,4.76,39,20210603,20211118
+Argentina_DUP1_farm44_field485_soybean_2021,ok,22,4.84,39,20201129,20210404
+Argentina_DUP1_farm44_field486_soybean_2021,ok,24,4.83,39,20201205,20210422
+Argentina_DUP1_farm44_field487_soybean_2021,ok,26,4.84,39,20201205,20210504
+Argentina_DUP1_farm44_field490_soybean_2021,ok,30,4.84,39,20201105,20210428
+Argentina_DUP1_farm44_field492_wheat_2021,ok,28,4.76,39,20210528,20211112
+Argentina_DUP1_farm44_field493_wheat_2021,ok,31,4.76,39,20210516,20211118
+Argentina_DUP1_farm44_field496_soybean_2021,ok,26,4.84,39,20201205,20210504
+Argentina_DUP1_farm44_field499_corn_2021,ok,35,4.85,39,20201129,20210621
+Argentina_DUP1_farm44_field505_soybean_2021,ok,28,4.84,39,20201030,20210410
+Argentina_DUP1_farm44_field506_soybean_2021,ok,29,4.83,39,20201030,20210416
+Argentina_DUP1_farm44_field507_soybean_2021,ok,31,4.86,39,20201105,20210504
+Argentina_DUP1_farm44_field509_soybean_2021,ok,28,4.84,39,20201105,20210416
+Argentina_DUP1_farm44_field521_wheat_2021,ok,31,4.76,39,20210516,20211118
+Argentina_DUP1_farm44_field523_soybean_2021,ok,28,4.83,39,20201105,20210416
+Argentina_DUP1_farm44_field526_wheat_2021,ok,33,4.77,39,20210510,20211124
+Argentina_DUP1_farm44_field527_soybean_2021,ok,29,4.84,39,20201111,20210428
+Argentina_DUP1_farm44_field530_wheat_2021,ok,31,4.76,39,20210510,20211112
+Argentina_DUP1_farm44_field531_wheat_2021,ok,32,4.76,39,20210510,20211118
+Argentina_DUP1_farm44_field534_wheat_2021,ok,32,4.78,39,20210510,20211118
+Argentina_DUP1_farm44_field537_soybean_2021,ok,27,4.83,39,20201105,20210410
+Argentina_DUP1_farm44_field540_wheat_2021,ok,31,4.76,39,20210510,20211112
+Argentina_DUP1_farm44_field542_soybean_2021,ok,28,4.81,39,20201117,20210428
+Argentina_DUP1_farm44_field546_wheat_2021,ok,26,4.75,39,20210609,20211112
+Argentina_DUP1_farm44_field548_corn_2021,ok,37,4.82,39,20201211,20210715
+Argentina_DUP1_farm44_field551_wheat_2021,ok,31,4.76,39,20210510,20211112
+Argentina_DUP1_farm44_field552_soybean_2021,ok,30,4.87,39,20201117,20210510
+Argentina_DUP1_farm44_field553_corn_2021,ok,41,4.84,39,20201217,20210814
+Argentina_DUP1_farm44_field558_wheat_2021,ok,28,4.75,39,20210603,20211118
+Argentina_DUP1_farm44_field559_wheat_2021,ok,30,4.78,39,20210510,20211106
+Argentina_DUP1_farm44_field561_soybean_2021,ok,29,4.84,39,20201123,20210510
+Argentina_DUP1_farm45_field573_wheat_2021,ok,26,4.77,141,20210622,20211201
+Argentina_DUP1_farm45_field586_wheat_2021,ok,27,4.76,68,20210530,20211202
+Argentina_DUP1_farm45_field587_wheat_2021,ok,30,4.78,141,20210610,20211213
+Argentina_DUP1_farm45_field590_corn_2021,ok,33,4.79,141,20200925,20210405
+Argentina_DUP1_farm45_field591_wheat_2021,ok,27,4.25,141,20210616,20211201
+Argentina_DUP1_farm45_field603_wheat_2021,ok,27,4.75,68,20210605,20211208
+Argentina_DUP1_farm45_field606_wheat_2021,ok,26,4.75,68,20210611,20211208
+Argentina_DUP1_farm45_field611_wheat_2021,ok,30,4.78,141,20210610,20211213
+Argentina_DUP1_farm45_field617_corn_2021,ok,35,4.81,68,20200920,20210412
+Argentina_DUP1_farm45_field618_wheat_2021,ok,27,4.76,68,20210605,20211208
+Argentina_DUP1_farm45_field622_wheat_2021,ok,26,4.76,141,20210616,20211125
+Argentina_DUP1_farm45_field623_corn_2021,ok,32,4.77,141,20200925,20210330
+Argentina_DUP1_farm46_field655_corn_2021,ok,36,4.8,141,20201112,20210610
+Argentina_DUP1_farm49_field660_soybean_2021,ok,23,3.81,39,20201117,20210329
+Argentina_DUP1_farm49_field661_soybean_2021,ok,23,4.82,39,20201205,20210416
+Argentina_DUP1_farm50_field666_wheat_2021,ok,27,4.76,141,20210628,20211213
+Argentina_DUP1_farm51_field675_wheat_2021,ok,14,4.74,141,20210529,20211113
+Argentina_DUP1_farm51_field676_wheat_2021,ok,14,4.74,141,20210529,20211113
+Argentina_DUP1_farm52_field711_soybean_2021,ok,14,4.78,39,20201105,20210410
+Argentina_DUP1_farm52_field712_soybean_2021,ok,15,4.76,141,20201019,20210405
+Argentina_DUP1_farm52_field713_soybean_2021,ok,12,4.75,39,20201223,20210504
+Argentina_DUP1_farm52_field714_soybean_2021,ok,12,4.78,39,20201223,20210504
+Argentina_DUP1_farm52_field715_soybean_2021,ok,12,4.76,39,20201223,20210504
+Argentina_DUP1_farm52_field716_soybean_2021,ok,13,4.77,141,20201031,20210324
+Argentina_DUP1_farm52_field717_soybean_2021,ok,14,4.79,39,20201024,20210329
+Argentina_DUP1_farm52_field718_soybean_2021,ok,14,4.76,39,20201105,20210410
+Argentina_DUP1_farm52_field719_soybean_2021,ok,14,4.77,39,20201105,20210410
+Argentina_DUP1_farm52_field720_soybean_2021,ok,14,4.77,39,20201024,20210329
+Argentina_DUP1_farm52_field721_soybean_2021,ok,14,4.77,39,20201105,20210410
+Argentina_DUP1_farm52_field722_soybean_2021,ok,14,4.76,141,20201031,20210405
+Argentina_DUP1_farm52_field723_soybean_2021,ok,14,4.75,141,20201031,20210405
+Argentina_DUP1_farm52_field724_soybean_2021,ok,12,4.77,39,20201223,20210504
+Argentina_DUP1_farm52_field725_soybean_2021,ok,15,4.78,141,20201019,20210405
+Argentina_DUP1_farm52_field726_soybean_2021,ok,14,4.75,141,20201019,20210324
+Argentina_DUP1_farm52_field727_soybean_2021,ok,14,4.75,141,20201019,20210324
+Argentina_DUP1_farm52_field728_soybean_2021,ok,15,4.76,141,20201019,20210405
+Argentina_DUP1_farm53_field729_corn_2021,ok,27,4.76,141,20201013,20210318
+Argentina_DUP1_farm54_field735_soybean_2021,ok,26,4.84,39,20201129,20210428
+Argentina_DUP1_farm54_field736_soybean_2021,ok,28,4.85,39,20201117,20210428
+Argentina_DUP1_farm54_field741_wheat_2021,ok,27,4.75,39,20210603,20211112
+Argentina_DUP1_farm54_field744_soybean_2021,ok,30,4.83,39,20201117,20210510
+Argentina_DUP1_farm8_field87_corn_2021,ok,25,4.8,68,20201014,20210307
+Argentina_DUP1_farm9_field92_soybean_2021,ok,25,4.81,68,20201107,20210331
+Argentina_DUP1_farm13_field111_soybean_2022,ok,17,4.79,141,20211026,20220331
+Argentina_DUP1_farm14_field113_soybean_2022,ok,14,4.78,39,20211206,20220429
+Argentina_DUP1_farm14_field114_soybean_2022,ok,14,4.79,39,20211206,20220429
+Argentina_DUP1_farm14_field115_soybean_2022,ok,13,4.79,39,20211206,20220417
+Argentina_DUP1_farm15_field151_soybean_2022,ok,13,4.8,39,20211112,20220405
+Argentina_DUP1_farm15_field152_soybean_2022,ok,11,4.8,39,20211112,20220312
+Argentina_DUP1_farm15_field153_soybean_2022,ok,12,4.81,39,20211112,20220324
+Argentina_DUP1_farm15_field154_soybean_2022,ok,13,4.8,39,20211031,20220324
+Argentina_DUP1_farm16_field156_soybean_2022,ok,16,4.8,39,20211106,20220324
+Argentina_DUP1_farm16_field161_soybean_2022,ok,14,4.78,39,20211118,20220324
+Argentina_DUP1_farm16_field163_soybean_2022,ok,14,4.79,39,20211130,20220417
+Argentina_DUP1_farm19_field194_soybean_2022,ok,17,4.79,141,20211026,20220331
+Argentina_DUP1_farm19_field195_corn_2022,ok,23,4.8,141,20210926,20220412
+Argentina_DUP1_farm19_field196_soybean_2022,ok,16,4.79,141,20211113,20220412
+Argentina_DUP1_farm19_field197_corn_2022,ok,18,4.77,141,20211125,20220530
+Argentina_DUP1_farm19_field198_corn_2022,ok,24,4.78,141,20210920,20220412
+Argentina_DUP1_farm19_field199_corn_2022,ok,24,4.76,141,20210914,20220331
+Argentina_DUP1_farm19_field200_corn_2022,ok,22,4.79,141,20210926,20220331
+Argentina_DUP1_farm19_field201_corn_2022,ok,24,4.78,141,20210914,20220331
+Argentina_DUP1_farm1_field1_soybean_2022,ok,1,2.47,141,20211219,20211219
+Argentina_DUP1_farm1_field2_soybean_2022,ok,2,4.72,141,20211207,20211219
+Argentina_DUP1_farm1_field3_soybean_2022,ok,2,4.73,141,20211207,20211219
+Argentina_DUP1_farm1_field4_soybean_2022,ok,4,4.75,141,20211113,20211219
+Argentina_DUP1_farm26_field268_corn_2022,ok,1,2.47,141,20211219,20211219
+Argentina_DUP1_farm27_field296_soybean_2022,ok,19,4.79,68,20211015,20220407
+Argentina_DUP1_farm27_field298_soybean_2022,ok,19,4.81,68,20211015,20220407
+Argentina_DUP1_farm27_field299_soybean_2022,ok,19,4.8,68,20211015,20220407
+Argentina_DUP1_farm27_field300_soybean_2022,ok,19,4.79,68,20211015,20220407
+Argentina_DUP1_farm28_field318_corn_2022,ok,20,4.77,39,20210919,20220216
+Argentina_DUP1_farm28_field319_soybean_2022,ok,16,4.8,39,20211124,20220429
+Argentina_DUP1_farm28_field322_corn_2022,ok,23,4.78,39,20210913,20220312
+Argentina_DUP1_farm2_field10_corn_2022,ok,16,4.77,141,20211213,20220623
+Argentina_DUP1_farm2_field11_corn_2022,ok,16,4.78,141,20211213,20220623
+Argentina_DUP1_farm2_field12_corn_2022,ok,16,4.75,141,20211213,20220623
+Argentina_DUP1_farm2_field13_corn_2022,ok,18,4.79,39,20210925,20220417
+Argentina_DUP1_farm2_field14_corn_2022,ok,18,4.8,39,20210925,20220417
+Argentina_DUP1_farm2_field15_corn_2022,ok,18,4.8,39,20210925,20220417
+Argentina_DUP1_farm2_field16_corn_2022,ok,17,4.77,39,20211007,20220417
+Argentina_DUP1_farm2_field17_corn_2022,ok,17,4.77,39,20211007,20220417
+Argentina_DUP1_farm2_field18_corn_2022,ok,17,4.82,39,20211007,20220417
+Argentina_DUP1_farm2_field19_corn_2022,ok,17,4.8,39,20211007,20220417
+Argentina_DUP1_farm2_field20_corn_2022,ok,17,4.81,39,20211007,20220417
+Argentina_DUP1_farm2_field21_corn_2022,ok,17,4.78,39,20211007,20220417
+Argentina_DUP1_farm2_field22_corn_2022,ok,17,4.82,39,20211007,20220417
+Argentina_DUP1_farm2_field23_corn_2022,ok,17,4.75,141,20211201,20220623
+Argentina_DUP1_farm2_field24_corn_2022,ok,17,4.76,141,20211201,20220623
+Argentina_DUP1_farm2_field7_corn_2022,ok,12,4.8,39,20211007,20220216
+Argentina_DUP1_farm2_field8_corn_2022,ok,12,4.82,39,20211007,20220216
+Argentina_DUP1_farm2_field9_corn_2022,ok,12,4.8,39,20211007,20220216
+Argentina_DUP1_farm31_field334_soybean_2022,ok,11,4.75,39,20211212,20220405
+Argentina_DUP1_farm32_field335_soybean_2022,ok,14,4.76,39,20211124,20220405
+Argentina_DUP1_farm32_field336_soybean_2022,ok,14,4.79,39,20211206,20220429
+Argentina_DUP1_farm32_field337_soybean_2022,ok,14,4.76,39,20211206,20220429
+Argentina_DUP1_farm32_field338_soybean_2022,ok,15,4.75,39,20211124,20220417
+Argentina_DUP1_farm32_field339_soybean_2022,ok,15,4.75,39,20211124,20220417
+Argentina_DUP1_farm32_field340_corn_2022,ok,18,4.79,39,20220111,20220815
+Argentina_DUP1_farm34_field343_soybean_2022,ok,10,4.79,39,20211206,20220324
+Argentina_DUP1_farm34_field344_soybean_2022,ok,10,4.82,39,20211206,20220324
+Argentina_DUP1_farm35_field345_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm35_field346_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm35_field347_soybean_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm35_field348_soybean_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm35_field349_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm35_field351_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm35_field352_soybean_2022,ok,1,2.5,3,20211221,20211221
+Argentina_DUP1_farm35_field353_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm35_field354_soybean_2022,ok,1,2.47,3,20211221,20211221
+Argentina_DUP1_farm35_field355_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm35_field356_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm35_field357_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field369_soybean_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field370_soybean_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field371_soybean_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field372_soybean_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field373_soybean_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field374_soybean_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field375_soybean_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field376_soybean_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field377_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field378_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field379_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field380_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field381_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field382_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field383_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field384_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field385_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field386_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field387_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field388_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field389_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field390_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field391_soybean_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field392_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm37_field398_soybean_2022,ok,13,4.79,68,20211120,20220407
+Argentina_DUP1_farm37_field399_soybean_2022,ok,16,4.8,68,20211102,20220407
+Argentina_DUP1_farm37_field400_soybean_2022,ok,12,4.79,68,20211120,20220326
+Argentina_DUP1_farm37_field401_soybean_2022,ok,16,4.79,68,20211027,20220326
+Argentina_DUP1_farm37_field402_soybean_2022,ok,17,4.81,68,20211027,20220407
+Argentina_DUP1_farm38_field417_soybean_2022,ok,11,4.77,141,20211213,20220412
+Argentina_DUP1_farm39_field418_corn_2022,ok,16,4.77,68,20211120,20220513
+Argentina_DUP1_farm39_field419_wheat_2022,ok,14,4.73,68,20220618,20221121
+Argentina_DUP1_farm39_field420_wheat_2022,ok,15,4.73,68,20220606,20221121
+Argentina_DUP1_farm39_field421_wheat_2022,ok,16,4.75,68,20220525,20221121
+Argentina_DUP1_farm41_field432_corn_2022,ok,2,4.72,141,20211207,20211219
+Argentina_DUP1_farm42_field437_soybean_2022,ok,15,4.8,39,20211112,20220324
+Argentina_DUP1_farm42_field438_soybean_2022,ok,14,4.76,39,20211124,20220405
+Argentina_DUP1_farm42_field439_soybean_2022,ok,14,4.79,39,20211130,20220417
+Argentina_DUP1_farm45_field575_corn_2022,ok,22,4.8,141,20210920,20220319
+Argentina_DUP1_farm45_field581_corn_2022,ok,21,4.81,141,20210926,20220319
+Argentina_DUP1_farm45_field585_corn_2022,ok,20,4.76,68,20210927,20220314
+Argentina_DUP1_farm45_field597_corn_2022,ok,19,4.78,141,20211002,20220307
+Argentina_DUP1_farm45_field600_corn_2022,ok,20,4.78,68,20210927,20220314
+Argentina_DUP1_farm45_field608_corn_2022,ok,20,4.78,68,20211003,20220326
+Argentina_DUP1_farm45_field616_corn_2022,ok,22,4.79,141,20210926,20220331
+Argentina_DUP1_farm45_field619_corn_2022,ok,21,4.8,68,20210927,20220326
+Argentina_DUP1_farm45_field624_corn_2022,ok,18,4.78,68,20211009,20220314
+Argentina_DUP1_farm45_field625_wheat_2022,ok,16,4.72,141,20220530,20221126
+Argentina_DUP1_farm45_field627_wheat_2022,ok,15,4.73,68,20220618,20221203
+Argentina_DUP1_farm45_field639_wheat_2022,ok,14,4.74,68,20220618,20221121
+Argentina_DUP1_farm45_field641_wheat_2022,ok,16,4.74,68,20220606,20221203
+Argentina_DUP1_farm45_field644_wheat_2022,ok,16,4.74,68,20220606,20221203
+Argentina_DUP1_farm45_field645_wheat_2022,ok,16,4.74,68,20220606,20221203
+Argentina_DUP1_farm45_field648_wheat_2022,ok,15,4.71,141,20220611,20221126
+Argentina_DUP1_farm46_field656_soybean_2022,ok,16,4.78,141,20211113,20220412
+Argentina_DUP1_farm49_field662_corn_2022,ok,16,2.5,39,20211218,20220616
+Argentina_DUP1_farm49_field663_corn_2022,ok,17,4.77,39,20211218,20220628
+Argentina_DUP1_farm51_field667_soybean_2022,ok,4,4.75,141,20211113,20211219
+Argentina_DUP1_farm51_field668_soybean_2022,ok,1,2.48,141,20211219,20211219
+Argentina_DUP1_farm51_field669_soybean_2022,ok,2,4.74,141,20211207,20211219
+Argentina_DUP1_farm51_field670_soybean_2022,ok,5,4.75,141,20211101,20211219
+Argentina_DUP1_farm51_field671_soybean_2022,ok,2,4.73,141,20211207,20211219
+Argentina_DUP1_farm51_field672_soybean_2022,ok,5,4.76,141,20211101,20211219
+Argentina_DUP1_farm51_field673_soybean_2022,ok,5,4.76,141,20211101,20211219
+Argentina_DUP1_farm51_field674_soybean_2022,ok,5,4.76,141,20211101,20211219
+Argentina_DUP1_farm51_field677_corn_2022,ok,8,4.76,141,20210926,20211219
+Argentina_DUP1_farm51_field678_corn_2022,ok,8,4.77,141,20210926,20211219
+Argentina_DUP1_farm51_field679_corn_2022,ok,1,2.48,141,20211219,20211219
+Argentina_DUP1_farm51_field680_corn_2022,ok,7,4.77,141,20211008,20211219
+Argentina_DUP1_farm51_field681_corn_2022,ok,8,4.77,141,20210926,20211219
+Argentina_DUP1_farm51_field682_corn_2022,ok,1,2.48,141,20211219,20211219
+Argentina_DUP1_farm51_field683_wheat_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm51_field684_wheat_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm51_field685_wheat_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm52_field693_soybean_2022,ok,14,4.8,39,20211019,20220324
+Argentina_DUP1_farm52_field694_soybean_2022,ok,14,4.79,39,20211019,20220324
+Argentina_DUP1_farm52_field695_soybean_2022,ok,14,4.8,39,20211019,20220324
+Argentina_DUP1_farm52_field696_soybean_2022,ok,14,4.8,39,20211019,20220324
+Argentina_DUP1_farm52_field697_soybean_2022,ok,15,4.77,39,20211031,20220417
+Argentina_DUP1_farm52_field698_soybean_2022,ok,13,4.79,39,20211112,20220405
+Argentina_DUP1_farm52_field699_soybean_2022,ok,14,4.8,39,20211019,20220324
+Argentina_DUP1_farm52_field700_soybean_2022,ok,13,4.8,39,20211031,20220324
+Argentina_DUP1_farm52_field701_soybean_2022,ok,14,4.81,39,20211031,20220405
+Argentina_DUP1_farm52_field702_soybean_2022,ok,13,4.8,39,20211031,20220324
+Argentina_DUP1_farm52_field703_soybean_2022,ok,14,4.79,39,20211031,20220405
+Argentina_DUP1_farm52_field705_soybean_2022,ok,14,4.81,39,20211031,20220405
+Argentina_DUP1_farm52_field706_soybean_2022,ok,14,4.8,39,20211031,20220405
+Argentina_DUP1_farm52_field707_soybean_2022,ok,15,4.8,39,20211019,20220405
+Argentina_DUP1_farm57_field753_soybean_2022,ok,12,4.77,39,20211206,20220417
+Argentina_DUP1_farm57_field754_soybean_2022,ok,13,4.76,39,20211206,20220429
+Argentina_DUP1_farm9_field93_soybean_2022,ok,17,4.8,141,20211101,20220412
+Argentina_DUP1_farm14_field116_corn_2023,ok,17,4.76,39,20230106,20230717
+Argentina_DUP1_farm14_field117_corn_2023,ok,17,4.77,39,20230106,20230717
+Argentina_DUP1_farm14_field118_corn_2023,ok,17,4.76,39,20230106,20230717
+Argentina_DUP1_farm16_field157_soybean_2023,ok,14,4.77,39,20221201,20230506
+Argentina_DUP1_farm16_field160_wheat_2023,ok,14,4.75,39,20230611,20231114
+Argentina_DUP1_farm16_field162_corn_2023,ok,18,4.77,39,20221225,20230717
+Argentina_DUP1_farm20_field208_soybean_2023,ok,13,4.77,39,20221119,20230412
+Argentina_DUP1_farm20_field209_soybean_2023,ok,13,4.78,39,20221119,20230412
+Argentina_DUP1_farm22_field213_wheat_2023,ok,17,4.78,39,20230530,20231208
+Argentina_DUP1_farm25_field240_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field241_soybean_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field242_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field243_soybean_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field244_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field245_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field246_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field247_soybean_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field248_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field249_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field250_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field251_soybean_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field252_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field253_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field254_soybean_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field255_soybean_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field256_soybean_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field257_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field258_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field259_soybean_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field260_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field261_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field262_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field263_soybean_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field264_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field265_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field266_soybean_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field267_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm26_field269_soybean_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm28_field313_wheat_2023,ok,13,4.75,39,20230611,20231102
+Argentina_DUP1_farm28_field320_corn_2023,ok,18,4.79,39,20221225,20230717
+Argentina_DUP1_farm28_field321_wheat_2023,ok,16,4.77,39,20230506,20231102
+Argentina_DUP1_farm29_field323_soybean_2023,ok,12,4.76,141,20221126,20230407
+Argentina_DUP1_farm29_field324_soybean_2023,ok,13,4.79,141,20221114,20230407
+Argentina_DUP1_farm29_field325_soybean_2023,ok,12,4.74,68,20221121,20230414
+Argentina_DUP1_farm29_field326_soybean_2023,ok,13,4.74,68,20221121,20230426
+Argentina_DUP1_farm29_field327_soybean_2023,ok,14,4.78,141,20221114,20230419
+Argentina_DUP1_farm29_field328_soybean_2023,ok,13,4.78,141,20221126,20230419
+Argentina_DUP1_farm29_field329_soybean_2023,ok,13,4.76,141,20221126,20230419
+Argentina_DUP1_farm29_field330_soybean_2023,ok,13,4.76,141,20221114,20230407
+Argentina_DUP1_farm29_field331_soybean_2023,ok,12,4.74,68,20221121,20230414
+Argentina_DUP1_farm2_field25_soybean_2023,ok,14,4.73,141,20221021,20230326
+Argentina_DUP1_farm2_field26_soybean_2023,ok,14,4.78,141,20221021,20230326
+Argentina_DUP1_farm2_field27_soybean_2023,ok,13,4.76,141,20221021,20230314
+Argentina_DUP1_farm2_field28_soybean_2023,ok,14,4.79,39,20221026,20230331
+Argentina_DUP1_farm2_field29_soybean_2023,ok,14,4.75,141,20221021,20230326
+Argentina_DUP1_farm2_field30_soybean_2023,ok,15,4.79,39,20221014,20230331
+Argentina_DUP1_farm2_field31_soybean_2023,ok,11,4.75,141,20221126,20230326
+Argentina_DUP1_farm2_field32_soybean_2023,ok,14,4.76,141,20221021,20230326
+Argentina_DUP1_farm2_field33_soybean_2023,ok,14,4.76,141,20221021,20230326
+Argentina_DUP1_farm2_field34_soybean_2023,ok,13,4.74,141,20221114,20230407
+Argentina_DUP1_farm2_field35_soybean_2023,ok,13,4.77,39,20221119,20230412
+Argentina_DUP1_farm2_field36_corn_2023,ok,14,4.78,39,20221002,20230307
+Argentina_DUP1_farm2_field37_soybean_2023,ok,12,4.79,39,20221119,20230331
+Argentina_DUP1_farm2_field38_soybean_2023,ok,12,4.79,39,20221119,20230331
+Argentina_DUP1_farm2_field39_soybean_2023,ok,15,4.77,141,20221009,20230326
+Argentina_DUP1_farm2_field40_soybean_2023,ok,15,4.79,141,20221009,20230326
+Argentina_DUP1_farm2_field41_soybean_2023,ok,12,4.8,39,20221119,20230331
+Argentina_DUP1_farm2_field42_soybean_2023,ok,14,4.74,141,20221102,20230407
+Argentina_DUP1_farm2_field43_soybean_2023,ok,13,4.79,141,20221102,20230326
+Argentina_DUP1_farm2_field44_soybean_2023,ok,12,4.78,39,20221119,20230331
+Argentina_DUP1_farm2_field45_soybean_2023,ok,14,4.78,141,20221102,20230407
+Argentina_DUP1_farm2_field46_soybean_2023,ok,14,4.78,141,20221102,20230407
+Argentina_DUP1_farm30_field332_corn_2023,ok,20,3.22,39,20221225,20230810
+Argentina_DUP1_farm30_field333_corn_2023,ok,20,3.33,39,20221225,20230810
+Argentina_DUP1_farm32_field341_corn_2023,ok,15,4.74,39,20221225,20230611
+Argentina_DUP1_farm35_field350_soybean_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm39_field422_soybean_2023,ok,14,4.73,141,20221102,20230407
+Argentina_DUP1_farm39_field425_wheat_2023,ok,14,4.72,68,20230707,20231210
+Argentina_DUP1_farm39_field427_wheat_2023,ok,13,4.74,68,20230707,20231128
+Argentina_DUP1_farm39_field428_wheat_2023,ok,14,4.74,68,20230707,20231210
+Argentina_DUP1_farm42_field433_soybean_2023,ok,12,4.78,39,20221213,20230424
+Argentina_DUP1_farm42_field435_soybean_2023,ok,13,4.77,39,20221213,20230506
+Argentina_DUP1_farm42_field436_wheat_2023,ok,14,4.74,39,20230530,20231102
+Argentina_DUP1_farm42_field441_soybean_2023,ok,12,4.78,39,20221119,20230331
+Argentina_DUP1_farm42_field442_wheat_2023,ok,14,4.77,39,20230530,20231102
+Argentina_DUP1_farm45_field628_corn_2023,ok,14,4.72,68,20221121,20230508
+Argentina_DUP1_farm45_field629_corn_2023,ok,17,4.77,141,20221126,20230606
+Argentina_DUP1_farm45_field630_corn_2023,ok,16,4.77,141,20221208,20230606
+Argentina_DUP1_farm45_field631_soybean_2023,ok,14,4.76,141,20221102,20230407
+Argentina_DUP1_farm45_field633_soybean_2023,ok,16,4.61,141,20221102,20230501
+Argentina_DUP1_farm45_field634_corn_2023,ok,16,3.1,141,20221126,20230525
+Argentina_DUP1_farm45_field635_soybean_2023,ok,14,4.77,141,20221102,20230407
+Argentina_DUP1_farm45_field637_soybean_2023,ok,16,4.51,141,20221102,20230501
+Argentina_DUP1_farm45_field643_soybean_2023,ok,12,4.76,68,20221028,20230321
+Argentina_DUP1_farm45_field647_corn_2023,ok,14,4.73,68,20221203,20230601
+Argentina_DUP1_farm45_field649_soybean_2023,ok,14,4.02,141,20221102,20230407
+Argentina_DUP1_farm45_field650_soybean_2023,ok,14,4.76,141,20221102,20230407
+Argentina_DUP1_farm45_field651_corn_2023,ok,14,4.73,68,20221121,20230508
+Argentina_DUP1_farm45_field653_corn_2023,ok,14,4.72,68,20221121,20230508
+Argentina_DUP1_farm49_field664_soybean_2023,failed,0,0,,,
+Argentina_DUP1_farm49_field665_soybean_2023,ok,12,4.73,39,20221119,20230331
+Argentina_DUP1_farm4_field55_corn_2023,ok,16,4.76,39,20221225,20230623
+Argentina_DUP1_farm55_field745_soybean_2023,ok,13,4.75,39,20221201,20230424
+Argentina_DUP1_farm55_field746_corn_2023,ok,18,4.77,39,20230106,20230729
+Argentina_DUP1_farm55_field747_corn_2023,ok,18,4.75,39,20230106,20230729
+Argentina_DUP1_farm56_field748_wheat_2023,ok,16,4.77,39,20230611,20231208
+Argentina_DUP1_farm56_field749_wheat_2023,ok,15,4.78,39,20230623,20231208
+Argentina_DUP1_farm56_field750_soybean_2023,ok,11,4.77,39,20230106,20230506
+Argentina_DUP1_farm56_field751_soybean_2023,ok,13,4.75,141,20221126,20230419
+Argentina_DUP1_farm56_field752_wheat_2023,ok,14,4.75,141,20230712,20231215
+Argentina_DUP1_farm5_field61_wheat_2023,ok,16,4.76,39,20230530,20231126
+Argentina_DUP1_farm6_field68_soybean_2023,ok,12,4.76,68,20221121,20230414
+Argentina_DUP1_farm6_field69_soybean_2023,ok,12,4.75,68,20221121,20230414
+Argentina_DUP1_farm6_field70_soybean_2023,ok,13,4.74,68,20221121,20230426
+Argentina_DUP1_farm6_field71_soybean_2023,ok,12,4.76,68,20221121,20230414
+Argentina_DUP1_farm6_field72_soybean_2023,ok,12,4.76,68,20221121,20230414
+Argentina_DUP1_farm6_field73_soybean_2023,ok,11,4.76,68,20221121,20230402
+Argentina_DUP1_farm6_field74_soybean_2023,ok,12,4.75,68,20221227,20230508
+Argentina_DUP1_farm6_field75_soybean_2023,ok,13,4.77,68,20221121,20230426
+Argentina_DUP1_farm6_field76_soybean_2023,ok,13,4.75,68,20221227,20230601
+Argentina_DUP1_farm6_field77_soybean_2023,ok,12,4.75,68,20221227,20230508
+Argentina_DUP1_farm6_field78_soybean_2023,ok,13,4.76,68,20221121,20230426
+Argentina_DUP1_farm6_field79_soybean_2023,ok,12,4.75,68,20221227,20230508
+Argentina_DUP1_farm6_field80_soybean_2023,ok,14,4.77,68,20221121,20230508
+Argentina_DUP1_farm6_field81_soybean_2023,ok,13,4.76,68,20221121,20230426
+Argentina_DUP1_farm6_field82_soybean_2023,ok,14,4.77,68,20221121,20230508
+Argentina_DUP1_farm6_field83_soybean_2023,ok,12,4.76,68,20221121,20230414
+Argentina_DUP1_farm6_field84_soybean_2023,ok,13,4.75,68,20221121,20230426
+Argentina_DUP1_farm6_field85_soybean_2023,ok,12,4.76,68,20221121,20230414
+Argentina_DUP1_farm9_field103_wheat_2023,ok,15,4.79,141,20230618,20231203
+Argentina_DUP1_farm9_field99_wheat_2023,ok,15,4.78,141,20230618,20231203
+Argentina_DUP1_farm10_field104_soybean_2024,ok,12,4.82,39,20231114,20240325
+Argentina_DUP1_farm10_field105_soybean_2024,ok,15,4.82,39,20231114,20240430
+Argentina_DUP1_farm11_field106_soybean_2024,ok,14,4.81,39,20231114,20240418
+Argentina_DUP1_farm11_field107_soybean_2024,ok,12,4.82,39,20231114,20240325
+Argentina_DUP1_farm12_field108_soybean_2024,ok,12,4.82,39,20231126,20240406
+Argentina_DUP1_farm12_field109_soybean_2024,ok,14,4.81,39,20231126,20240430
+Argentina_DUP1_farm12_field110_corn_2024,ok,15,4.84,39,20231009,20240325
+Argentina_DUP1_farm13_field112_soybean_2024,ok,14,4.78,141,20231121,20240425
+Argentina_DUP1_farm19_field206_soybean_2024,ok,14,4.79,141,20231121,20240425
+Argentina_DUP1_farm19_field207_soybean_2024,ok,13,4.78,141,20231121,20240413
+Argentina_DUP1_farm22_field211_corn_2024,ok,14,4.83,39,20231009,20240313
+Argentina_DUP1_farm22_field212_soybean_2024,ok,14,4.8,39,20231114,20240418
+Argentina_DUP1_farm22_field214_soybean_2024,ok,11,4.81,39,20240101,20240430
+Argentina_DUP1_farm22_field215_soybean_2024,ok,12,4.8,39,20231126,20240406
+Argentina_DUP1_farm22_field216_corn_2024,ok,14,4.82,39,20231009,20240313
+Argentina_DUP1_farm22_field217_soybean_2024,ok,10,4.82,39,20240101,20240418
+Argentina_DUP1_farm28_field316_soybean_2024,ok,12,4.8,39,20231114,20240325
+Argentina_DUP1_farm2_field47_corn_2024,ok,15,4.77,141,20231004,20240320
+Argentina_DUP1_farm2_field48_corn_2024,ok,16,4.75,141,20230922,20240320
+Argentina_DUP1_farm2_field49_corn_2024,ok,15,4.81,39,20231009,20240325
+Argentina_DUP1_farm2_field50_soybean_2024,ok,14,4.78,39,20231102,20240406
+Argentina_DUP1_farm2_field51_soybean_2024,ok,14,4.77,141,20231028,20240401
+Argentina_DUP1_farm2_field52_corn_2024,ok,16,4.73,141,20230922,20240320
+Argentina_DUP1_farm2_field53_corn_2024,ok,15,4.81,39,20231009,20240325
+Argentina_DUP1_farm39_field423_soybean_2024,ok,12,4.78,68,20231104,20240408
+Argentina_DUP1_farm39_field424_corn_2024,ok,14,4.77,68,20230929,20240327
+Argentina_DUP1_farm39_field426_soybean_2024,ok,12,4.78,68,20231104,20240408
+Argentina_DUP1_farm39_field429_soybean_2024,ok,12,4.78,68,20231104,20240408
+Argentina_DUP1_farm39_field430_soybean_2024,ok,12,4.78,68,20231116,20240420
+Argentina_DUP1_farm47_field657_soybean_2024,ok,13,4.77,141,20231109,20240401
+Argentina_DUP1_farm5_field56_corn_2024,ok,15,4.81,39,20231009,20240325
+Argentina_DUP1_farm5_field57_soybean_2024,ok,11,4.79,39,20240101,20240430
+Argentina_DUP1_farm5_field58_soybean_2024,ok,11,4.78,39,20240101,20240430
+Argentina_DUP1_farm5_field59_soybean_2024,ok,8,4.8,39,20240101,20240325
+Argentina_DUP1_farm5_field60_soybean_2024,ok,12,4.78,39,20231114,20240325
+Argentina_DUP1_farm5_field62_soybean_2024,ok,12,4.79,39,20231114,20240325
+Argentina_DUP1_farm5_field63_soybean_2024,ok,12,4.79,39,20231114,20240325
+Argentina_DUP1_farm5_field64_soybean_2024,ok,11,4.78,39,20240101,20240430
+Argentina_DUP1_farm5_field65_corn_2024,ok,15,4.8,39,20231009,20240325
+Argentina_DUP1_farm5_field66_corn_2024,ok,15,4.8,39,20231009,20240325
+Argentina_DUP1_farm5_field67_corn_2024,ok,16,4.79,39,20231009,20240406
+Argentina_DUP1_farm7_field86_soybean_2024,ok,14,4.81,39,20231126,20240430
+Argentina_DUP1_farm9_field100_soybean_2024,ok,9,4.8,68,20240103,20240420
+Argentina_DUP1_farm9_field101_soybean_2024,ok,15,4.83,141,20231109,20240425
+Argentina_DUP1_farm9_field102_soybean_2024,ok,9,4.79,68,20240103,20240420
+Argentina_DUP1_farm9_field94_corn_2024,ok,16,4.79,141,20230922,20240320
+Argentina_DUP1_farm9_field95_soybean_2024,ok,13,4.81,141,20231109,20240401
+Argentina_DUP1_farm9_field96_corn_2024,ok,15,4.83,141,20231004,20240320
+Argentina_DUP1_farm9_field97_soybean_2024,ok,14,4.81,141,20231109,20240413
+Argentina_DUP1_farm9_field98_soybean_2024,ok,14,4.82,141,20231109,20240413
+Brazil_DUP2_farm2_field13_soybean_2017,ok,9,4.84,126,20161120,20170224
+Brazil_DUP2_farm2_field14_wheat_2017,ok,10,4.77,126,20170507,20170904
+Brazil_DUP2_farm2_field15_wheat_2017,ok,10,4.76,126,20170507,20170904
+Brazil_DUP2_farm2_field19_soybean_2017,ok,9,4.83,126,20161120,20170224
+Brazil_DUP2_farm2_field28_soybean_2017,ok,9,4.83,126,20161120,20170224
+Brazil_DUP2_farm2_field33_wheat_2017,ok,10,4.76,126,20170507,20170904
+Brazil_DUP2_farm2_field45_wheat_2017,ok,10,4.76,126,20170507,20170904
+Brazil_DUP2_farm4_field108_soybean_2017,failed,0,0,,,
+Argentina_DUP1_farm35_field345_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm35_field346_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm35_field347_soybean_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm35_field348_soybean_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm35_field349_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm35_field351_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm35_field353_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm35_field355_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm35_field356_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm35_field357_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field369_soybean_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field370_soybean_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field371_soybean_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field372_soybean_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field373_soybean_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field374_soybean_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field375_soybean_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field376_soybean_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field377_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field378_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field379_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field380_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field381_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field382_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field383_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field384_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field385_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field386_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field387_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field388_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field389_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field390_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field391_soybean_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm36_field392_corn_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm51_field683_wheat_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm51_field684_wheat_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm51_field685_wheat_2022,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field240_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field241_soybean_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field242_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field243_soybean_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field244_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field245_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field246_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field247_soybean_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field248_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field249_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field250_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field251_soybean_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field252_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field253_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field254_soybean_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field255_soybean_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field256_soybean_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field257_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field258_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field259_soybean_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field260_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field261_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field262_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field263_soybean_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field264_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field265_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field266_soybean_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm25_field267_corn_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm26_field269_soybean_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm35_field350_soybean_2023,no S1 coverage,0,0,,,
+Argentina_DUP1_farm49_field664_soybean_2023,ok,12,2.78,39,20221201,20230412
+Brazil_DUP2_farm4_field108_soybean_2017,ok,12,4.83,24,20161107,20170319
+Brazil_DUP2_farm4_field114_soybean_2017,ok,12,4.82,24,20161107,20170319
+Brazil_DUP2_farm4_field119_wheat_2017,ok,12,4.78,24,20170424,20170903
+Brazil_DUP2_farm4_field123_soybean_2017,ok,12,4.82,24,20161107,20170319
+Brazil_DUP2_farm4_field127_wheat_2017,ok,12,4.75,126,20170413,20170904
+Brazil_DUP2_farm4_field131_soybean_2017,ok,12,4.82,24,20161107,20170319
+Brazil_DUP2_farm4_field132_soybean_2017,ok,12,4.82,24,20161107,20170319
+Brazil_DUP2_farm4_field139_wheat_2017,ok,13,4.78,24,20170412,20170903
+Brazil_DUP2_farm4_field61_wheat_2017,ok,13,4.77,24,20170412,20170903
+Brazil_DUP2_farm4_field90_wheat_2017,ok,12,4.76,24,20170424,20170903
+Brazil_DUP2_farm4_field97_soybean_2017,ok,12,4.83,24,20161107,20170319
+Brazil_DUP2_farm4_field98_wheat_2017,ok,13,4.77,24,20170412,20170903
+Brazil_DUP2_farm6_field298_corn_2017,ok,13,4.82,24,20170223,20170717
+Brazil_DUP2_farm6_field308_corn_2017,ok,14,4.82,24,20170223,20170729
+Brazil_DUP2_farm6_field313_soybean_2017,ok,12,4.83,24,20161002,20170211
+Brazil_DUP2_farm6_field323_soybean_2017,ok,12,4.84,24,20161002,20170211
+Brazil_DUP2_farm6_field343_soybean_2017,ok,13,4.83,24,20161002,20170223
+Brazil_DUP2_farm6_field344_soybean_2017,ok,13,4.83,24,20161002,20170223
+Brazil_DUP2_farm6_field348_corn_2017,ok,13,4.81,24,20170223,20170717
+Brazil_DUP2_farm6_field352_soybean_2017,ok,12,4.83,24,20161002,20170211
+Brazil_DUP2_farm6_field355_wheat_2017,ok,11,4.57,126,20170507,20170916
+Brazil_DUP2_farm6_field360_soybean_2017,ok,13,4.83,24,20160914,20170211
+Brazil_DUP2_farm6_field362_soybean_2017,ok,12,4.84,24,20161002,20170211
+Brazil_DUP2_farm6_field366_soybean_2017,ok,14,4.83,24,20160914,20170223
+Brazil_DUP2_farm6_field369_soybean_2017,ok,13,4.84,24,20161002,20170223
+Brazil_DUP2_farm6_field381_corn_2017,ok,16,4.82,24,20170223,20170822
+Brazil_DUP2_farm6_field384_soybean_2017,ok,12,4.82,24,20161002,20170211
+Brazil_DUP2_farm6_field387_soybean_2017,ok,13,4.83,24,20160914,20170211
+Brazil_DUP2_farm6_field393_corn_2017,ok,15,4.82,24,20170223,20170810
+Brazil_DUP2_farm6_field400_corn_2017,ok,16,4.82,24,20170223,20170822
+Brazil_DUP2_farm6_field421_corn_2017,ok,16,4.82,24,20170223,20170822
+Brazil_DUP2_farm6_field436_soybean_2017,ok,13,4.84,24,20160914,20170211
+Brazil_DUP2_farm6_field437_corn_2017,ok,13,4.83,24,20170223,20170717
+Brazil_DUP2_farm6_field446_corn_2017,ok,14,4.83,24,20170223,20170729
+Brazil_DUP2_farm6_field447_corn_2017,ok,13,4.82,24,20170223,20170717
+Brazil_DUP2_farm6_field453_wheat_2017,ok,11,4.76,126,20170507,20170916
+Brazil_DUP2_farm6_field463_corn_2017,ok,14,4.83,24,20170223,20170729
+Brazil_DUP2_farm6_field470_soybean_2017,ok,13,4.83,24,20161002,20170223
+Brazil_DUP2_farm7_field474_soybean_2017,ok,13,4.84,24,20161014,20170307
+Brazil_DUP2_farm7_field475_soybean_2017,ok,13,4.84,24,20161014,20170307
+Brazil_DUP2_farm7_field478_soybean_2017,ok,14,4.79,24,20161002,20170307
+Brazil_DUP2_farm7_field480_soybean_2017,ok,13,4.81,24,20161014,20170307
+Brazil_DUP2_farm7_field484_soybean_2017,ok,14,4.82,24,20161002,20170307
+Brazil_DUP2_farm7_field488_soybean_2017,ok,13,4.82,24,20161014,20170307
+Brazil_DUP2_farm9_field503_soybean_2017,ok,12,4.83,24,20161107,20170319
+Brazil_DUP2_farm9_field517_wheat_2017,ok,11,4.58,24,20170424,20170822
+Brazil_DUP2_farm9_field530_soybean_2017,ok,11,4.83,24,20161107,20170307
+Brazil_DUP2_farm9_field532_soybean_2017,ok,11,4.83,24,20161107,20170307
+Brazil_DUP2_farm9_field535_wheat_2017,ok,13,4.42,24,20170424,20170915
+Brazil_DUP2_farm9_field540_wheat_2017,ok,13,4.67,24,20170424,20170915
+Brazil_DUP2_farm9_field549_wheat_2017,ok,13,4.31,24,20170424,20170915
+Brazil_DUP2_farm2_field24_soybean_2018,ok,12,4.81,126,20171022,20180303
+Brazil_DUP2_farm2_field29_soybean_2018,ok,12,4.82,126,20171022,20180303
+Brazil_DUP2_farm2_field34_soybean_2018,ok,12,4.8,126,20171022,20180303
+Brazil_DUP2_farm2_field6_soybean_2018,ok,12,4.81,126,20171022,20180303
+Brazil_DUP2_farm4_field100_corn_2018,ok,12,4.76,126,20180219,20180701
+Brazil_DUP2_farm4_field109_soybean_2018,ok,11,4.8,126,20171010,20180207
+Brazil_DUP2_farm4_field117_soybean_2018,ok,11,4.79,126,20171010,20180207
+Brazil_DUP2_farm4_field130_corn_2018,ok,12,4.76,126,20180219,20180701
+Brazil_DUP2_farm4_field134_corn_2018,ok,13,4.77,126,20180219,20180713
+Brazil_DUP2_farm4_field59_corn_2018,ok,13,4.76,126,20180219,20180713
+Brazil_DUP2_farm4_field65_corn_2018,ok,13,4.77,126,20180219,20180713
+Brazil_DUP2_farm4_field69_corn_2018,ok,13,4.76,126,20180219,20180713
+Brazil_DUP2_farm4_field70_soybean_2018,ok,11,4.78,126,20171010,20180207
+Brazil_DUP2_farm4_field73_soybean_2018,ok,11,4.78,126,20171010,20180207
+Brazil_DUP2_farm4_field78_soybean_2018,ok,11,4.79,126,20171010,20180207
+Brazil_DUP2_farm4_field85_soybean_2018,ok,11,4.79,126,20171010,20180207
+Brazil_DUP2_farm5_field153_soybean_2018,ok,12,4.81,126,20171022,20180303
+Brazil_DUP2_farm5_field154_soybean_2018,ok,11,4.78,126,20171103,20180303
+Brazil_DUP2_farm5_field155_soybean_2018,ok,12,4.78,126,20171103,20180315
+Brazil_DUP2_farm5_field161_wheat_2018,ok,12,4.73,126,20180526,20181005
+Brazil_DUP2_farm5_field164_wheat_2018,ok,13,4.8,24,20180525,20181016
+Brazil_DUP2_farm5_field176_wheat_2018,ok,11,4.72,126,20180526,20180923
+Brazil_DUP2_farm5_field181_soybean_2018,ok,12,4.8,126,20171103,20180315
+Brazil_DUP2_farm5_field190_wheat_2018,ok,11,4.75,126,20180526,20180923
+Brazil_DUP2_farm5_field196_soybean_2018,ok,12,4.82,126,20171103,20180315
+Brazil_DUP2_farm5_field200_wheat_2018,ok,12,4.76,126,20180526,20181005
+Brazil_DUP2_farm5_field206_soybean_2018,ok,11,4.8,126,20171115,20180315
+Brazil_DUP2_farm5_field207_wheat_2018,ok,13,4.77,126,20180514,20181005
+Brazil_DUP2_farm5_field216_soybean_2018,ok,11,4.79,126,20171103,20180303
+Brazil_DUP2_farm5_field218_soybean_2018,ok,12,4.81,126,20171022,20180303
+Brazil_DUP2_farm5_field241_soybean_2018,ok,11,4.79,126,20171103,20180303
+Brazil_DUP2_farm5_field245_wheat_2018,ok,13,4.77,126,20180526,20181017
+Brazil_DUP2_farm5_field248_soybean_2018,ok,11,4.8,126,20171103,20180303
+Brazil_DUP2_farm5_field256_soybean_2018,ok,11,4.81,126,20171115,20180315
+Brazil_DUP2_farm5_field260_soybean_2018,ok,12,4.82,126,20171115,20180327
+Brazil_DUP2_farm5_field269_soybean_2018,ok,12,4.82,126,20171103,20180315
+Brazil_DUP2_farm5_field272_soybean_2018,ok,12,4.82,126,20171115,20180327
+Brazil_DUP2_farm5_field276_soybean_2018,ok,12,4.81,126,20171115,20180327
+Brazil_DUP2_farm5_field277_wheat_2018,ok,12,4.75,126,20180526,20181005
+Brazil_DUP2_farm5_field280_wheat_2018,ok,12,4.74,126,20180526,20181005
+Brazil_DUP2_farm5_field282_wheat_2018,ok,13,4.76,126,20180526,20181017
+Brazil_DUP2_farm6_field292_wheat_2018,ok,14,4.76,126,20180408,20180911
+Brazil_DUP2_farm6_field294_wheat_2018,ok,12,4.76,126,20180514,20180923
+Brazil_DUP2_farm6_field297_soybean_2018,ok,10,4.83,126,20171127,20180315
+Brazil_DUP2_farm6_field302_soybean_2018,ok,10,4.82,126,20171127,20180315
+Brazil_DUP2_farm6_field314_wheat_2018,ok,15,4.77,126,20180408,20180923
+Brazil_DUP2_farm6_field317_soybean_2018,ok,12,4.67,126,20171115,20180327
+Brazil_DUP2_farm6_field325_wheat_2018,ok,13,4.74,126,20180526,20181017
+Brazil_DUP2_farm6_field328_wheat_2018,ok,12,4.74,126,20180514,20180923
+Brazil_DUP2_farm6_field336_soybean_2018,ok,10,4.83,126,20171127,20180315
+Brazil_DUP2_farm6_field337_wheat_2018,ok,15,4.75,126,20180408,20180923
+Brazil_DUP2_farm6_field338_wheat_2018,ok,15,4.54,126,20180408,20180923
+Brazil_DUP2_farm6_field340_soybean_2018,ok,10,4.82,126,20171127,20180315
+Brazil_DUP2_farm6_field341_soybean_2018,ok,11,4.81,126,20171127,20180327
+Brazil_DUP2_farm6_field383_soybean_2018,ok,10,4.82,126,20171127,20180315
+Brazil_DUP2_farm6_field389_wheat_2018,ok,13,4.74,126,20180526,20181017
+Brazil_DUP2_farm6_field394_soybean_2018,ok,10,4.83,126,20171127,20180315
+Brazil_DUP2_farm6_field404_wheat_2018,ok,12,4.75,126,20180514,20180923
+Brazil_DUP2_farm6_field405_wheat_2018,ok,15,4.76,126,20180408,20180923
+Brazil_DUP2_farm6_field413_soybean_2018,ok,10,4.82,126,20171127,20180315
+Brazil_DUP2_farm6_field417_soybean_2018,ok,11,4.8,126,20171127,20180327
+Brazil_DUP2_farm6_field425_wheat_2018,ok,14,4.75,126,20180408,20180911
+Brazil_DUP2_farm6_field427_soybean_2018,ok,11,4.8,126,20171127,20180327
+Brazil_DUP2_farm6_field431_wheat_2018,ok,13,4.74,126,20180526,20181017
+Brazil_DUP2_farm6_field434_soybean_2018,ok,10,4.83,126,20171127,20180315
+Brazil_DUP2_farm6_field445_wheat_2018,ok,15,4.74,126,20180408,20180923
+Brazil_DUP2_farm6_field457_soybean_2018,ok,10,4.83,126,20171127,20180315
+Brazil_DUP2_farm7_field473_soybean_2018,ok,12,4.83,24,20171009,20180218
+Brazil_DUP2_farm7_field477_soybean_2018,ok,13,4.81,24,20171009,20180302
+Brazil_DUP2_farm7_field479_soybean_2018,ok,12,4.78,24,20171009,20180218
+Brazil_DUP2_farm7_field483_soybean_2018,ok,12,4.83,24,20171009,20180218
+Brazil_DUP2_farm7_field485_soybean_2018,ok,12,4.81,24,20171009,20180218
+Brazil_DUP2_farm7_field489_soybean_2018,ok,12,4.81,24,20171009,20180218
+Brazil_DUP2_farm9_field500_soybean_2018,ok,11,4.8,126,20171022,20180219
+Brazil_DUP2_farm9_field504_corn_2018,ok,13,4.76,126,20180303,20180725
+Brazil_DUP2_farm9_field511_soybean_2018,ok,11,4.8,126,20171022,20180219
+Brazil_DUP2_farm9_field514_soybean_2018,ok,12,4.8,126,20171010,20180219
+Brazil_DUP2_farm9_field521_corn_2018,ok,13,4.75,126,20180303,20180725
+Brazil_DUP2_farm9_field537_soybean_2018,ok,12,4.8,126,20171010,20180219
+Brazil_DUP2_farm9_field539_corn_2018,ok,13,4.75,126,20180303,20180725
+Brazil_DUP2_farm9_field551_corn_2018,ok,13,4.75,126,20180303,20180725
+Brazil_DUP2_farm2_field18_soybean_2019,ok,11,4.79,126,20180911,20190109
+Brazil_DUP2_farm2_field25_corn_2019,ok,13,4.81,126,20190109,20190602
+Brazil_DUP2_farm2_field35_soybean_2019,ok,11,4.79,126,20180911,20190109
+Brazil_DUP2_farm2_field39_corn_2019,ok,12,4.79,126,20190109,20190521
+Brazil_DUP2_farm2_field41_soybean_2019,ok,11,4.78,126,20180911,20190109
+Brazil_DUP2_farm2_field43_corn_2019,ok,12,4.79,126,20190109,20190521
+Brazil_DUP2_farm2_field5_soybean_2019,ok,11,4.79,126,20180911,20190109
+Brazil_DUP2_farm2_field8_corn_2019,ok,12,4.79,126,20190109,20190521
+Brazil_DUP2_farm4_field105_soybean_2019,ok,12,4.78,126,20181110,20190322
+Brazil_DUP2_farm4_field116_wheat_2019,ok,11,4.74,126,20190509,20190906
+Brazil_DUP2_farm4_field60_wheat_2019,ok,12,4.74,126,20190509,20190918
+Brazil_DUP2_farm4_field72_wheat_2019,ok,12,4.76,24,20190508,20190917
+Brazil_DUP2_farm4_field75_wheat_2019,ok,11,4.74,126,20190509,20190906
+Brazil_DUP2_farm4_field76_wheat_2019,ok,11,4.74,126,20190521,20190918
+Brazil_DUP2_farm4_field82_soybean_2019,ok,12,4.77,126,20181110,20190322
+Brazil_DUP2_farm4_field86_soybean_2019,ok,12,4.77,126,20181110,20190322
+Brazil_DUP2_farm4_field88_soybean_2019,ok,12,4.77,126,20181110,20190322
+Brazil_DUP2_farm4_field93_wheat_2019,ok,12,4.74,126,20190509,20190918
+Brazil_DUP2_farm4_field95_soybean_2019,ok,12,4.77,126,20181110,20190322
+Brazil_DUP2_farm4_field99_soybean_2019,ok,11,4.78,126,20181110,20190310
+Brazil_DUP2_farm5_field147_corn_2019,ok,13,4.79,126,20190202,20190626
+Brazil_DUP2_farm5_field150_soybean_2019,ok,11,4.79,126,20181017,20190214
+Brazil_DUP2_farm5_field159_soybean_2019,ok,12,4.78,126,20181005,20190214
+Brazil_DUP2_farm5_field167_wheat_2019,ok,12,4.77,126,20190427,20190906
+Brazil_DUP2_farm5_field170_soybean_2019,ok,11,4.79,126,20181017,20190214
+Brazil_DUP2_farm5_field175_soybean_2019,ok,11,4.79,126,20181017,20190214
+Brazil_DUP2_farm5_field177_soybean_2019,ok,10,4.79,126,20181005,20190121
+Brazil_DUP2_farm5_field179_soybean_2019,ok,12,4.79,126,20181017,20190226
+Brazil_DUP2_farm5_field183_wheat_2019,ok,12,4.77,126,20190427,20190906
+Brazil_DUP2_farm5_field184_soybean_2019,ok,10,4.79,126,20180923,20190109
+Brazil_DUP2_farm5_field186_corn_2019,ok,13,4.78,126,20190121,20190614
+Brazil_DUP2_farm5_field189_soybean_2019,ok,10,4.79,126,20181005,20190121
+Brazil_DUP2_farm5_field192_soybean_2019,ok,11,4.79,126,20181029,20190226
+Brazil_DUP2_farm5_field195_corn_2019,ok,14,4.77,126,20190121,20190626
+Brazil_DUP2_farm5_field198_wheat_2019,ok,12,4.78,126,20190427,20190906
+Brazil_DUP2_farm5_field212_wheat_2019,ok,12,4.76,126,20190427,20190906
+Brazil_DUP2_farm5_field219_soybean_2019,ok,12,4.78,126,20181005,20190214
+Brazil_DUP2_farm5_field220_soybean_2019,ok,10,4.79,126,20180923,20190109
+Brazil_DUP2_farm5_field222_wheat_2019,ok,12,4.77,126,20190427,20190906
+Brazil_DUP2_farm5_field228_soybean_2019,ok,11,4.79,126,20181029,20190226
+Brazil_DUP2_farm5_field229_wheat_2019,ok,12,4.77,126,20190427,20190906
+Brazil_DUP2_farm5_field231_wheat_2019,ok,12,4.74,126,20190427,20190906
+Brazil_DUP2_farm5_field233_soybean_2019,ok,11,4.76,126,20181005,20190202
+Brazil_DUP2_farm5_field254_soybean_2019,ok,11,4.79,126,20181029,20190226
+Brazil_DUP2_farm5_field255_soybean_2019,ok,10,4.78,126,20180923,20190109
+Brazil_DUP2_farm5_field258_corn_2019,ok,13,4.78,126,20190121,20190614
+Brazil_DUP2_farm5_field275_corn_2019,ok,12,4.79,126,20190121,20190602
+Brazil_DUP2_farm6_field284_soybean_2019,ok,13,4.83,24,20181016,20190309
+Brazil_DUP2_farm6_field287_wheat_2019,ok,13,4.77,126,20190415,20190906
+Brazil_DUP2_farm6_field295_corn_2019,ok,13,4.78,126,20190214,20190708
+Brazil_DUP2_farm6_field303_soybean_2019,ok,10,4.77,126,20181017,20190202
+Brazil_DUP2_farm6_field304_soybean_2019,ok,13,4.6,126,20181017,20190310
+Brazil_DUP2_farm6_field318_soybean_2019,ok,13,4.79,126,20181017,20190310
+Brazil_DUP2_farm6_field329_soybean_2019,ok,13,4.79,126,20181017,20190310
+Brazil_DUP2_farm6_field331_wheat_2019,ok,13,4.75,126,20190415,20190906
+Brazil_DUP2_farm6_field335_wheat_2019,ok,12,4.75,126,20190415,20190825
+Brazil_DUP2_farm6_field346_soybean_2019,ok,13,4.78,126,20181017,20190310
+Brazil_DUP2_farm6_field347_corn_2019,ok,13,4.78,126,20190214,20190708
+Brazil_DUP2_farm6_field349_wheat_2019,ok,13,4.74,126,20190415,20190906
+Brazil_DUP2_farm6_field363_wheat_2019,ok,13,4.76,126,20190415,20190906
+Brazil_DUP2_farm6_field373_corn_2019,ok,13,4.79,126,20190214,20190708
+Brazil_DUP2_farm6_field382_wheat_2019,ok,13,4.74,126,20190415,20190906
+Brazil_DUP2_farm6_field392_soybean_2019,ok,13,4.79,126,20181017,20190310
+Brazil_DUP2_farm6_field398_soybean_2019,ok,10,4.8,126,20181017,20190202
+Brazil_DUP2_farm6_field401_soybean_2019,ok,13,4.82,24,20181016,20190309
+Brazil_DUP2_farm6_field408_corn_2019,ok,13,4.79,126,20190214,20190708
+Brazil_DUP2_farm6_field414_soybean_2019,ok,13,4.79,126,20181017,20190310
+Brazil_DUP2_farm6_field430_wheat_2019,ok,13,4.74,126,20190415,20190906
+Brazil_DUP2_farm6_field444_soybean_2019,ok,13,4.79,126,20181017,20190310
+Brazil_DUP2_farm6_field450_soybean_2019,ok,10,4.8,126,20181017,20190202
+Brazil_DUP2_farm6_field451_soybean_2019,ok,10,4.81,126,20181017,20190202
+Brazil_DUP2_farm6_field461_wheat_2019,ok,13,4.74,126,20190415,20190906
+Brazil_DUP2_farm7_field476_soybean_2019,ok,12,4.82,24,20181109,20190321
+Brazil_DUP2_farm7_field481_soybean_2019,ok,12,4.79,24,20181109,20190321
+Brazil_DUP2_farm7_field482_soybean_2019,ok,12,4.81,24,20181109,20190321
+Brazil_DUP2_farm7_field486_soybean_2019,ok,12,4.8,24,20181109,20190321
+Brazil_DUP2_farm7_field487_soybean_2019,ok,12,4.8,24,20181109,20190321
+Brazil_DUP2_farm7_field490_soybean_2019,ok,12,4.79,24,20181109,20190321
+Brazil_DUP2_farm9_field505_wheat_2019,ok,12,4.74,126,20190509,20190918
+Brazil_DUP2_farm9_field506_soybean_2019,ok,11,4.78,126,20181110,20190310
+Brazil_DUP2_farm9_field516_wheat_2019,ok,12,4.74,126,20190509,20190918
+Brazil_DUP2_farm9_field520_wheat_2019,ok,12,4.73,126,20190509,20190918
+Brazil_DUP2_farm9_field524_soybean_2019,ok,11,4.78,126,20181110,20190310
+Brazil_DUP2_farm9_field531_wheat_2019,ok,12,4.72,126,20190509,20190918
+Brazil_DUP2_farm9_field538_soybean_2019,ok,11,4.78,126,20181110,20190310
+Brazil_DUP2_farm9_field545_soybean_2019,ok,11,4.78,126,20181110,20190310
+Brazil_DUP2_farm2_field16_soybean_2020,ok,11,4.81,126,20191117,20200316
+Brazil_DUP2_farm2_field20_wheat_2020,ok,13,4.74,126,20200515,20201006
+Brazil_DUP2_farm2_field22_soybean_2020,ok,10,4.84,126,20191117,20200304
+Brazil_DUP2_farm2_field27_soybean_2020,ok,10,4.83,126,20191117,20200304
+Brazil_DUP2_farm2_field30_wheat_2020,ok,12,4.74,126,20200515,20200924
+Brazil_DUP2_farm2_field32_wheat_2020,ok,12,4.75,126,20200515,20200924
+Brazil_DUP2_farm2_field38_soybean_2020,ok,11,4.82,126,20191117,20200316
+Brazil_DUP2_farm2_field44_wheat_2020,ok,12,4.74,126,20200515,20200924
+Brazil_DUP2_farm4_field101_wheat_2020,ok,12,4.74,126,20200421,20200831
+Brazil_DUP2_farm4_field104_wheat_2020,ok,13,4.75,126,20200409,20200831
+Brazil_DUP2_farm4_field115_wheat_2020,ok,13,4.73,126,20200409,20200831
+Brazil_DUP2_farm4_field121_soybean_2020,ok,11,4.79,126,20191117,20200316
+Brazil_DUP2_farm4_field122_wheat_2020,ok,13,4.73,126,20200409,20200831
+Brazil_DUP2_farm4_field137_soybean_2020,ok,11,4.79,126,20191117,20200316
+Brazil_DUP2_farm4_field58_soybean_2020,ok,11,4.77,126,20191117,20200316
+Brazil_DUP2_farm4_field66_soybean_2020,ok,11,4.79,126,20191117,20200316
+Brazil_DUP2_farm4_field67_soybean_2020,ok,10,4.8,126,20191129,20200316
+Brazil_DUP2_farm4_field68_wheat_2020,ok,13,4.74,126,20200409,20200831
+Brazil_DUP2_farm4_field83_wheat_2020,ok,13,4.74,126,20200409,20200831
+Brazil_DUP2_farm4_field92_soybean_2020,ok,10,4.8,126,20191129,20200316
+Brazil_DUP2_farm5_field140_corn_2020,ok,15,4.8,126,20200209,20200726
+Brazil_DUP2_farm5_field143_corn_2020,ok,16,4.79,126,20200221,20200819
+Brazil_DUP2_farm5_field182_wheat_2020,ok,13,4.76,126,20200503,20200924
+Brazil_DUP2_farm5_field225_wheat_2020,ok,13,4.75,126,20200503,20200924
+Brazil_DUP2_farm5_field247_corn_2020,ok,16,4.79,126,20200209,20200807
+Brazil_DUP2_farm5_field249_wheat_2020,ok,12,4.73,126,20200503,20200912
+Brazil_DUP2_farm5_field252_wheat_2020,ok,13,4.75,126,20200503,20200924
+Brazil_DUP2_farm5_field262_corn_2020,ok,16,4.79,126,20200221,20200819
+Brazil_DUP2_farm5_field266_corn_2020,ok,15,4.79,126,20200209,20200726
+Brazil_DUP2_farm5_field268_corn_2020,ok,16,4.8,126,20200221,20200819
+Brazil_DUP2_farm5_field273_corn_2020,ok,15,4.77,126,20200209,20200726
+Brazil_DUP2_farm5_field274_soybean_2020,ok,11,4.8,126,20190930,20200128
+Brazil_DUP2_farm6_field289_corn_2020,ok,16,4.77,126,20200116,20200714
+Brazil_DUP2_farm6_field291_soybean_2020,ok,11,4.8,126,20190918,20200116
+Brazil_DUP2_farm6_field296_soybean_2020,ok,11,4.79,126,20190918,20200116
+Brazil_DUP2_farm6_field316_soybean_2020,ok,12,4.8,126,20190918,20200128
+Brazil_DUP2_farm6_field324_corn_2020,ok,13,4.56,126,20200116,20200608
+Brazil_DUP2_farm6_field332_soybean_2020,ok,12,4.79,126,20190918,20200128
+Brazil_DUP2_farm6_field334_soybean_2020,ok,11,4.78,126,20190918,20200116
+Brazil_DUP2_farm6_field339_corn_2020,ok,16,4.8,126,20200116,20200714
+Brazil_DUP2_farm6_field370_soybean_2020,ok,12,4.79,126,20190918,20200128
+Brazil_DUP2_farm6_field372_corn_2020,ok,16,4.79,126,20200116,20200714
+Brazil_DUP2_farm6_field374_corn_2020,ok,15,4.78,126,20200116,20200702
+Brazil_DUP2_farm6_field395_soybean_2020,ok,12,4.82,24,20190917,20200127
+Brazil_DUP2_farm6_field397_corn_2020,ok,15,4.8,126,20200116,20200702
+Brazil_DUP2_farm6_field402_corn_2020,ok,15,4.79,126,20200116,20200702
+Brazil_DUP2_farm6_field403_soybean_2020,ok,11,4.79,126,20190918,20200116
+Brazil_DUP2_farm6_field410_corn_2020,ok,16,4.78,126,20200116,20200714
+Brazil_DUP2_farm6_field432_corn_2020,ok,14,4.8,126,20200116,20200620
+Brazil_DUP2_farm6_field433_soybean_2020,ok,12,4.79,126,20190918,20200128
+Brazil_DUP2_farm6_field438_corn_2020,ok,15,4.79,126,20200116,20200702
+Brazil_DUP2_farm6_field442_corn_2020,ok,13,4.79,126,20200116,20200608
+Brazil_DUP2_farm6_field456_corn_2020,ok,16,4.8,126,20200116,20200714
+Brazil_DUP2_farm6_field464_corn_2020,ok,15,4.79,126,20200116,20200702
+Brazil_DUP2_farm6_field465_soybean_2020,ok,11,4.48,126,20190918,20200116
+Brazil_DUP2_farm6_field467_soybean_2020,ok,12,4.8,126,20190918,20200128
+Brazil_DUP2_farm6_field468_soybean_2020,ok,11,4.8,126,20190918,20200116
+Brazil_DUP2_farm6_field469_soybean_2020,ok,11,4.8,126,20190918,20200116
+Brazil_DUP2_farm9_field510_wheat_2020,ok,12,4.72,126,20200421,20200831
+Brazil_DUP2_farm9_field513_wheat_2020,ok,12,4.73,126,20200421,20200831
+Brazil_DUP2_farm9_field525_wheat_2020,ok,12,4.74,126,20200421,20200831
+Brazil_DUP2_farm9_field526_soybean_2020,ok,12,4.81,126,20191024,20200304
+Brazil_DUP2_farm9_field534_soybean_2020,ok,12,4.8,126,20191024,20200304
+Brazil_DUP2_farm9_field541_wheat_2020,ok,12,4.72,126,20200421,20200831
+Brazil_DUP2_farm9_field542_soybean_2020,ok,12,4.8,126,20191024,20200304
+Brazil_DUP2_farm9_field550_soybean_2020,ok,12,4.81,126,20191024,20200304
+Brazil_DUP2_farm2_field11_soybean_2021,ok,12,4.81,126,20201111,20210323
+Brazil_DUP2_farm2_field12_soybean_2021,ok,12,4.81,126,20201111,20210323
+Brazil_DUP2_farm2_field23_soybean_2021,ok,12,4.8,126,20201111,20210323
+Brazil_DUP2_farm2_field9_soybean_2021,ok,12,4.81,126,20201111,20210323
+Brazil_DUP2_farm3_field52_wheat_2021,ok,13,3.79,126,20210522,20211013
+Brazil_DUP2_farm3_field55_soybean_2021,ok,12,3.91,126,20201111,20210323
+Brazil_DUP2_farm4_field106_soybean_2021,ok,12,4.79,126,20201006,20210215
+Brazil_DUP2_farm4_field110_soybean_2021,ok,12,4.79,126,20201006,20210215
+Brazil_DUP2_farm4_field128_soybean_2021,ok,12,4.78,126,20201006,20210215
+Brazil_DUP2_farm4_field133_soybean_2021,ok,11,4.78,126,20201006,20210203
+Brazil_DUP2_farm4_field62_soybean_2021,ok,11,4.78,126,20201006,20210203
+Brazil_DUP2_farm4_field84_soybean_2021,ok,11,4.79,126,20201006,20210203
+Brazil_DUP2_farm5_field142_soybean_2021,ok,13,4.8,126,20201018,20210311
+Brazil_DUP2_farm5_field158_wheat_2021,ok,13,4.77,126,20210522,20211013
+Brazil_DUP2_farm5_field166_wheat_2021,ok,12,4.73,126,20210522,20211001
+Brazil_DUP2_farm5_field168_soybean_2021,ok,11,4.85,24,20201029,20210226
+Brazil_DUP2_farm5_field173_wheat_2021,ok,11,4.73,126,20210522,20210919
+Brazil_DUP2_farm5_field178_wheat_2021,ok,12,4.76,126,20210522,20211001
+Brazil_DUP2_farm5_field185_soybean_2021,ok,12,4.81,126,20201030,20210311
+Brazil_DUP2_farm5_field193_wheat_2021,ok,12,4.74,126,20210522,20211001
+Brazil_DUP2_farm5_field199_soybean_2021,ok,11,4.8,126,20201030,20210227
+Brazil_DUP2_farm5_field203_soybean_2021,ok,12,4.79,126,20201030,20210311
+Brazil_DUP2_farm5_field210_wheat_2021,ok,12,4.74,126,20210510,20210919
+Brazil_DUP2_farm5_field213_soybean_2021,ok,12,4.81,126,20201030,20210311
+Brazil_DUP2_farm5_field217_soybean_2021,ok,13,4.82,126,20201018,20210311
+Brazil_DUP2_farm5_field221_wheat_2021,ok,11,4.72,126,20210522,20210919
+Brazil_DUP2_farm5_field224_soybean_2021,ok,12,4.8,126,20201030,20210311
+Brazil_DUP2_farm5_field227_soybean_2021,ok,13,4.8,126,20201018,20210311
+Brazil_DUP2_farm5_field232_soybean_2021,ok,13,4.82,126,20201018,20210311
+Brazil_DUP2_farm5_field238_soybean_2021,ok,13,4.79,126,20201018,20210311
+Brazil_DUP2_farm5_field240_soybean_2021,ok,12,4.79,126,20201030,20210311
+Brazil_DUP2_farm5_field242_soybean_2021,ok,11,4.8,126,20201030,20210227
+Brazil_DUP2_farm5_field246_soybean_2021,ok,13,4.79,126,20201018,20210311
+Brazil_DUP2_farm5_field278_wheat_2021,ok,12,4.76,126,20210510,20210919
+Brazil_DUP2_farm5_field279_wheat_2021,ok,13,4.74,126,20210522,20211013
+Brazil_DUP2_farm6_field293_wheat_2021,ok,13,4.73,126,20210522,20211013
+Brazil_DUP2_farm6_field299_soybean_2021,ok,13,4.81,126,20201030,20210323
+Brazil_DUP2_farm6_field301_wheat_2021,ok,13,4.75,126,20210522,20211013
+Brazil_DUP2_farm6_field312_wheat_2021,ok,13,4.74,126,20210522,20211013
+Brazil_DUP2_farm6_field321_wheat_2021,ok,13,4.75,126,20210522,20211013
+Brazil_DUP2_farm6_field356_wheat_2021,ok,13,4.73,126,20210522,20211013
+Brazil_DUP2_farm6_field357_soybean_2021,ok,12,4.81,126,20201030,20210311
+Brazil_DUP2_farm6_field359_wheat_2021,ok,13,4.75,126,20210522,20211013
+Brazil_DUP2_farm6_field361_soybean_2021,ok,13,4.85,24,20201029,20210322
+Brazil_DUP2_farm6_field365_wheat_2021,ok,13,4.76,126,20210522,20211013
+Brazil_DUP2_farm6_field377_soybean_2021,ok,13,4.81,126,20201030,20210323
+Brazil_DUP2_farm6_field409_wheat_2021,ok,13,4.76,126,20210522,20211013
+Brazil_DUP2_farm6_field418_soybean_2021,ok,13,4.82,126,20201030,20210323
+Brazil_DUP2_farm6_field419_soybean_2021,ok,13,4.82,126,20201030,20210323
+Brazil_DUP2_farm6_field420_soybean_2021,ok,13,4.81,126,20201030,20210323
+Brazil_DUP2_farm6_field422_soybean_2021,ok,13,4.81,126,20201030,20210323
+Brazil_DUP2_farm6_field424_soybean_2021,ok,13,4.8,126,20201030,20210323
+Brazil_DUP2_farm6_field428_soybean_2021,ok,13,4.81,126,20201030,20210323
+Brazil_DUP2_farm6_field441_soybean_2021,ok,13,4.82,126,20201030,20210323
+Brazil_DUP2_farm6_field449_wheat_2021,ok,13,4.74,126,20210522,20211013
+Brazil_DUP2_farm6_field455_soybean_2021,ok,13,4.61,126,20201030,20210323
+Brazil_DUP2_farm6_field472_soybean_2021,ok,13,4.81,126,20201030,20210323
+Brazil_DUP2_farm9_field522_soybean_2021,ok,12,4.79,126,20201006,20210215
+Brazil_DUP2_farm9_field523_soybean_2021,ok,12,4.79,126,20201006,20210215
+Brazil_DUP2_farm9_field527_soybean_2021,ok,11,4.79,126,20201018,20210215
+Brazil_DUP2_farm9_field529_soybean_2021,ok,11,4.79,126,20201018,20210215
+Brazil_DUP2_farm2_field21_soybean_2022,ok,10,4.82,126,20210919,20220129
+Brazil_DUP2_farm2_field36_soybean_2022,ok,10,4.81,126,20210919,20220129
+Brazil_DUP2_farm2_field40_soybean_2022,ok,10,4.82,126,20210919,20220129
+Brazil_DUP2_farm2_field48_soybean_2022,ok,10,4.82,126,20210919,20220129
+Brazil_DUP2_farm3_field51_wheat_2022,ok,10,3.64,126,20220423,20220821
+Brazil_DUP2_farm3_field56_soybean_2022,ok,10,3.8,126,20211025,20220318
+Brazil_DUP2_farm4_field102_soybean_2022,ok,10,4.81,126,20211118,20220330
+Brazil_DUP2_farm4_field118_soybean_2022,ok,10,4.82,126,20211118,20220330
+Brazil_DUP2_farm4_field126_wheat_2022,ok,10,4.76,126,20220517,20220914
+Brazil_DUP2_farm4_field63_soybean_2022,ok,10,4.81,126,20211118,20220330
+Brazil_DUP2_farm4_field64_wheat_2022,ok,10,4.77,126,20220517,20220914
+Brazil_DUP2_farm4_field74_wheat_2022,ok,10,4.76,126,20220517,20220914
+Brazil_DUP2_farm4_field79_soybean_2022,ok,10,4.82,126,20211118,20220330
+Brazil_DUP2_farm4_field80_soybean_2022,ok,10,4.82,126,20211118,20220330
+Brazil_DUP2_farm4_field81_wheat_2022,ok,10,4.76,126,20220517,20220914
+Brazil_DUP2_farm4_field94_soybean_2022,ok,10,4.81,126,20211118,20220330
+Brazil_DUP2_farm5_field141_soybean_2022,ok,9,4.81,126,20211013,20220210
+Brazil_DUP2_farm5_field144_soybean_2022,ok,10,4.8,126,20211001,20220210
+Brazil_DUP2_farm5_field151_soybean_2022,ok,8,4.81,126,20211025,20220210
+Brazil_DUP2_farm5_field152_soybean_2022,ok,10,4.82,126,20211001,20220210
+Brazil_DUP2_farm5_field162_soybean_2022,ok,8,4.81,126,20211025,20220210
+Brazil_DUP2_farm5_field165_soybean_2022,ok,10,4.8,126,20211001,20220210
+Brazil_DUP2_farm5_field171_soybean_2022,ok,10,4.8,126,20211001,20220210
+Brazil_DUP2_farm5_field174_soybean_2022,ok,10,4.79,126,20211001,20220210
+Brazil_DUP2_farm5_field194_soybean_2022,ok,10,4.82,126,20211001,20220210
+Brazil_DUP2_farm5_field197_soybean_2022,ok,9,4.82,126,20211013,20220210
+Brazil_DUP2_farm5_field202_soybean_2022,ok,9,4.79,126,20211001,20220129
+Brazil_DUP2_farm5_field205_soybean_2022,ok,10,4.79,126,20211001,20220210
+Brazil_DUP2_farm5_field234_soybean_2022,ok,10,4.81,126,20211001,20220210
+Brazil_DUP2_farm5_field237_soybean_2022,ok,10,4.82,126,20211001,20220210
+Brazil_DUP2_farm5_field239_soybean_2022,ok,10,4.81,126,20211001,20220210
+Brazil_DUP2_farm6_field288_soybean_2022,ok,9,4.81,126,20211025,20220306
+Brazil_DUP2_farm6_field300_soybean_2022,ok,10,4.8,126,20211025,20220318
+Brazil_DUP2_farm6_field306_wheat_2022,ok,13,4.76,126,20220411,20220914
+Brazil_DUP2_farm6_field307_soybean_2022,ok,10,4.81,126,20211025,20220318
+Brazil_DUP2_farm6_field309_wheat_2022,ok,13,4.75,126,20220411,20220914
+Brazil_DUP2_farm6_field310_soybean_2022,ok,10,4.82,126,20211025,20220318
+Brazil_DUP2_farm6_field315_soybean_2022,ok,9,4.81,126,20211025,20220306
+Brazil_DUP2_farm6_field322_wheat_2022,ok,12,4.75,126,20220411,20220902
+Brazil_DUP2_farm6_field327_soybean_2022,ok,10,4.43,126,20211025,20220318
+Brazil_DUP2_farm6_field351_wheat_2022,ok,11,4.72,126,20220411,20220821
+Brazil_DUP2_farm6_field354_soybean_2022,ok,10,4.82,126,20211025,20220318
+Brazil_DUP2_farm6_field375_wheat_2022,ok,12,4.74,126,20220411,20220902
+Brazil_DUP2_farm6_field376_wheat_2022,ok,12,4.74,126,20220411,20220902
+Brazil_DUP2_farm6_field379_wheat_2022,ok,11,4.73,126,20220411,20220821
+Brazil_DUP2_farm6_field390_wheat_2022,ok,12,4.74,126,20220411,20220902
+Brazil_DUP2_farm6_field391_soybean_2022,ok,9,4.81,126,20211025,20220306
+Brazil_DUP2_farm6_field399_soybean_2022,ok,9,4.81,126,20211025,20220306
+Brazil_DUP2_farm6_field407_soybean_2022,ok,10,4.82,126,20211025,20220318
+Brazil_DUP2_farm6_field412_soybean_2022,ok,9,4.82,126,20211025,20220306
+Brazil_DUP2_farm6_field415_soybean_2022,ok,9,4.81,126,20211025,20220306
+Brazil_DUP2_farm6_field426_wheat_2022,ok,13,4.74,126,20220411,20220914
+Brazil_DUP2_farm6_field435_wheat_2022,ok,13,4.48,126,20220411,20220914
+Brazil_DUP2_farm6_field448_wheat_2022,ok,12,4.74,126,20220411,20220902
+Brazil_DUP2_farm6_field460_wheat_2022,ok,12,4.73,126,20220411,20220902
+Brazil_DUP2_farm6_field466_wheat_2022,ok,12,4.74,126,20220411,20220902
+Brazil_DUP2_farm6_field471_soybean_2022,ok,10,4.81,126,20211025,20220318
+Brazil_DUP2_farm9_field499_soybean_2022,ok,9,4.82,126,20211118,20220318
+Brazil_DUP2_farm9_field502_soybean_2022,ok,9,4.82,126,20211118,20220318
+Brazil_DUP2_farm9_field508_wheat_2022,ok,12,4.74,126,20220505,20220926
+Brazil_DUP2_farm9_field512_soybean_2022,ok,9,4.82,126,20211118,20220318
+Brazil_DUP2_farm9_field543_wheat_2022,ok,12,4.74,126,20220505,20220926
+Brazil_DUP2_farm9_field546_wheat_2022,ok,11,4.73,126,20220517,20220926
+Brazil_DUP2_farm9_field548_soybean_2022,ok,9,4.83,126,20211118,20220318
+Brazil_DUP2_farm1_field2_corn_2023,ok,14,4.79,126,20221125,20230430
+Brazil_DUP2_farm2_field10_wheat_2023,ok,12,4.75,126,20230418,20230828
+Brazil_DUP2_farm2_field17_corn_2023,ok,14,4.81,126,20221020,20230325
+Brazil_DUP2_farm2_field26_corn_2023,ok,14,4.8,126,20221020,20230325
+Brazil_DUP2_farm2_field37_wheat_2023,ok,12,4.77,126,20230418,20230828
+Brazil_DUP2_farm2_field42_wheat_2023,ok,12,4.77,126,20230418,20230828
+Brazil_DUP2_farm2_field46_corn_2023,ok,14,4.82,126,20221020,20230325
+Brazil_DUP2_farm2_field49_wheat_2023,ok,12,4.75,126,20230418,20230828
+Brazil_DUP2_farm2_field4_corn_2023,ok,14,4.81,126,20221020,20230325
+Brazil_DUP2_farm3_field53_soybean_2023,ok,14,4.01,126,20220914,20230217
+Brazil_DUP2_farm3_field57_corn_2023,ok,15,4.01,126,20230205,20230723
+Brazil_DUP2_farm4_field107_soybean_2023,ok,12,4.79,126,20221008,20230217
+Brazil_DUP2_farm4_field111_corn_2023,ok,14,4.78,126,20230325,20230828
+Brazil_DUP2_farm4_field113_soybean_2023,ok,14,4.8,126,20221008,20230313
+Brazil_DUP2_farm4_field120_corn_2023,ok,14,4.78,126,20230325,20230828
+Brazil_DUP2_farm4_field124_corn_2023,ok,13,4.77,126,20230325,20230816
+Brazil_DUP2_farm4_field136_soybean_2023,ok,14,4.8,126,20221008,20230313
+Brazil_DUP2_farm4_field138_corn_2023,ok,13,4.77,126,20230325,20230816
+Brazil_DUP2_farm4_field71_corn_2023,ok,14,4.78,126,20230325,20230828
+Brazil_DUP2_farm4_field77_corn_2023,ok,14,4.77,126,20230325,20230828
+Brazil_DUP2_farm4_field87_soybean_2023,ok,14,4.81,126,20221008,20230313
+Brazil_DUP2_farm4_field91_soybean_2023,ok,14,4.79,126,20221008,20230313
+Brazil_DUP2_farm4_field96_soybean_2023,ok,13,4.79,126,20221008,20230301
+Brazil_DUP2_farm5_field145_corn_2023,ok,13,4.78,126,20221113,20230406
+Brazil_DUP2_farm5_field146_corn_2023,ok,14,4.81,126,20221113,20230418
+Brazil_DUP2_farm5_field148_wheat_2023,ok,11,4.75,126,20230512,20230909
+Brazil_DUP2_farm5_field156_corn_2023,ok,13,4.8,126,20221113,20230406
+Brazil_DUP2_farm5_field157_corn_2023,ok,14,4.82,126,20221113,20230418
+Brazil_DUP2_farm5_field160_corn_2023,ok,13,4.78,126,20221113,20230406
+Brazil_DUP2_farm5_field163_wheat_2023,ok,12,4.74,126,20230430,20230909
+Brazil_DUP2_farm5_field172_wheat_2023,ok,12,4.73,126,20230430,20230909
+Brazil_DUP2_farm5_field204_corn_2023,ok,15,4.8,126,20221113,20230430
+Brazil_DUP2_farm5_field209_wheat_2023,ok,12,4.76,126,20230430,20230909
+Brazil_DUP2_farm5_field211_corn_2023,ok,13,4.8,126,20221113,20230406
+Brazil_DUP2_farm5_field214_wheat_2023,ok,11,4.77,126,20230524,20230921
+Brazil_DUP2_farm5_field215_wheat_2023,ok,11,4.72,126,20230512,20230909
+Brazil_DUP2_farm5_field223_wheat_2023,ok,11,4.73,126,20230524,20230921
+Brazil_DUP2_farm5_field226_wheat_2023,ok,11,4.76,126,20230512,20230909
+Brazil_DUP2_farm5_field230_corn_2023,ok,13,4.79,126,20221101,20230325
+Brazil_DUP2_farm5_field235_wheat_2023,ok,12,4.76,126,20230512,20230921
+Brazil_DUP2_farm5_field236_corn_2023,ok,14,4.81,126,20221113,20230418
+Brazil_DUP2_farm5_field243_corn_2023,ok,14,4.79,126,20221101,20230406
+Brazil_DUP2_farm5_field250_corn_2023,ok,13,4.8,126,20221101,20230325
+Brazil_DUP2_farm5_field251_wheat_2023,ok,11,4.76,126,20230512,20230909
+Brazil_DUP2_farm5_field261_corn_2023,ok,13,4.81,126,20221125,20230418
+Brazil_DUP2_farm5_field263_corn_2023,ok,13,4.77,126,20221113,20230406
+Brazil_DUP2_farm5_field264_corn_2023,ok,14,4.81,126,20221113,20230418
+Brazil_DUP2_farm5_field265_corn_2023,ok,14,4.82,126,20221113,20230418
+Brazil_DUP2_farm5_field267_wheat_2023,ok,12,4.76,126,20230512,20230921
+Brazil_DUP2_farm6_field283_corn_2023,ok,15,4.79,126,20230205,20230723
+Brazil_DUP2_farm6_field290_corn_2023,ok,17,4.79,126,20230205,20230816
+Brazil_DUP2_farm6_field305_soybean_2023,ok,13,4.81,126,20220926,20230217
+Brazil_DUP2_farm6_field320_soybean_2023,ok,13,4.79,126,20220926,20230217
+Brazil_DUP2_farm6_field326_soybean_2023,ok,12,4.79,126,20220926,20230205
+Brazil_DUP2_farm6_field333_soybean_2023,ok,12,4.8,126,20220926,20230205
+Brazil_DUP2_farm6_field342_soybean_2023,ok,13,4.8,126,20220914,20230205
+Brazil_DUP2_farm6_field345_soybean_2023,ok,13,4.8,126,20220926,20230217
+Brazil_DUP2_farm6_field350_soybean_2023,ok,12,4.79,126,20220926,20230205
+Brazil_DUP2_farm6_field353_corn_2023,ok,16,4.79,126,20230205,20230804
+Brazil_DUP2_farm6_field364_soybean_2023,ok,13,4.8,126,20220914,20230205
+Brazil_DUP2_farm6_field367_corn_2023,ok,15,4.81,126,20230205,20230723
+Brazil_DUP2_farm6_field368_soybean_2023,ok,12,4.8,126,20220926,20230205
+Brazil_DUP2_farm6_field371_soybean_2023,ok,14,4.61,126,20220914,20230217
+Brazil_DUP2_farm6_field378_corn_2023,ok,18,4.82,126,20230205,20230828
+Brazil_DUP2_farm6_field385_soybean_2023,ok,13,4.81,126,20220926,20230217
+Brazil_DUP2_farm6_field386_soybean_2023,ok,13,4.8,126,20220926,20230217
+Brazil_DUP2_farm6_field388_corn_2023,ok,14,4.78,126,20230205,20230711
+Brazil_DUP2_farm6_field396_corn_2023,ok,13,4.78,126,20230205,20230629
+Brazil_DUP2_farm6_field416_corn_2023,ok,16,4.79,126,20230205,20230804
+Brazil_DUP2_farm6_field429_corn_2023,ok,17,4.81,126,20230205,20230816
+Brazil_DUP2_farm6_field440_corn_2023,ok,17,4.8,126,20230205,20230816
+Brazil_DUP2_farm6_field452_corn_2023,ok,15,4.79,126,20230205,20230723
+Brazil_DUP2_farm6_field454_soybean_2023,ok,13,4.8,126,20220926,20230217
+Brazil_DUP2_farm6_field459_corn_2023,ok,16,4.68,126,20230205,20230804
+Brazil_DUP2_farm6_field462_corn_2023,ok,15,4.79,126,20230205,20230723
+Brazil_DUP2_farm9_field501_corn_2023,ok,13,4.79,126,20221020,20230313
+Brazil_DUP2_farm9_field507_soybean_2023,ok,10,4.81,126,20230909,20231226
+Brazil_DUP2_farm9_field509_soybean_2023,ok,10,4.81,126,20230909,20231226
+Brazil_DUP2_farm9_field515_corn_2023,ok,14,4.79,126,20221020,20230325
+Brazil_DUP2_farm9_field518_wheat_2023,ok,10,4.75,126,20230418,20230804
+Brazil_DUP2_farm9_field519_corn_2023,ok,13,4.79,126,20221020,20230313
+Brazil_DUP2_farm9_field528_wheat_2023,ok,10,4.76,126,20230418,20230804
+Brazil_DUP2_farm9_field533_wheat_2023,ok,11,4.73,126,20230418,20230816
+Brazil_DUP2_farm9_field536_soybean_2023,ok,9,4.82,126,20230921,20231226
+Brazil_DUP2_farm9_field544_corn_2023,ok,13,4.79,126,20221020,20230313
+Brazil_DUP2_farm9_field547_soybean_2023,ok,10,4.81,126,20230909,20231226
+Brazil_DUP2_farm1_field1_soybean_2024,ok,11,4.77,126,20231003,20240131
+Brazil_DUP2_farm1_field3_soybean_2024,ok,11,4.77,126,20231003,20240131
+Brazil_DUP2_farm2_field31_soybean_2024,ok,10,4.82,126,20230921,20240107
+Brazil_DUP2_farm2_field47_soybean_2024,ok,10,4.81,126,20230921,20240107
+Brazil_DUP2_farm2_field50_soybean_2024,ok,10,4.81,126,20230921,20240107
+Brazil_DUP2_farm2_field7_soybean_2024,ok,10,4.81,126,20230921,20240107
+Brazil_DUP2_farm3_field54_corn_2024,ok,14,4.05,126,20231003,20240307
+Brazil_DUP2_farm4_field103_corn_2024,ok,11,4.76,126,20231108,20240307
+Brazil_DUP2_farm4_field112_corn_2024,ok,11,4.77,126,20231108,20240307
+Brazil_DUP2_farm4_field125_corn_2024,ok,12,4.78,126,20231027,20240307
+Brazil_DUP2_farm4_field129_corn_2024,ok,11,4.76,126,20231108,20240307
+Brazil_DUP2_farm4_field135_corn_2024,ok,11,4.76,126,20231108,20240307
+Brazil_DUP2_farm4_field89_corn_2024,ok,11,4.77,126,20231108,20240307
+Brazil_DUP2_farm5_field149_soybean_2024,ok,12,4.79,126,20230921,20240131
+Brazil_DUP2_farm5_field169_soybean_2024,ok,11,4.78,126,20230921,20240119
+Brazil_DUP2_farm5_field180_soybean_2024,ok,11,4.8,126,20231003,20240131
+Brazil_DUP2_farm5_field187_soybean_2024,ok,12,4.8,126,20231003,20240212
+Brazil_DUP2_farm5_field188_soybean_2024,ok,11,4.79,126,20231003,20240131
+Brazil_DUP2_farm5_field191_soybean_2024,ok,12,4.78,126,20231003,20240212
+Brazil_DUP2_farm5_field201_soybean_2024,ok,12,4.78,126,20230921,20240131
+Brazil_DUP2_farm5_field208_soybean_2024,ok,11,4.81,126,20231003,20240131
+Brazil_DUP2_farm5_field244_soybean_2024,ok,11,4.78,126,20231003,20240131
+Brazil_DUP2_farm5_field253_soybean_2024,ok,11,4.77,126,20230921,20240119
+Brazil_DUP2_farm5_field257_soybean_2024,ok,12,4.79,126,20230921,20240131
+Brazil_DUP2_farm5_field259_soybean_2024,ok,11,4.8,126,20231003,20240131
+Brazil_DUP2_farm5_field270_soybean_2024,ok,11,4.79,126,20231003,20240131
+Brazil_DUP2_farm5_field271_soybean_2024,ok,11,4.79,126,20231003,20240131
+Brazil_DUP2_farm5_field281_soybean_2024,ok,11,4.78,126,20230921,20240119
+Brazil_DUP2_farm6_field285_corn_2024,ok,10,4.82,126,20231108,20240224
+Brazil_DUP2_farm6_field286_corn_2024,ok,10,4.81,126,20231108,20240224
+Brazil_DUP2_farm6_field311_corn_2024,ok,10,4.79,126,20231108,20240224
+Brazil_DUP2_farm6_field319_corn_2024,ok,11,4.79,126,20231108,20240307
+Brazil_DUP2_farm6_field330_corn_2024,ok,10,4.46,126,20231108,20240224
+Brazil_DUP2_farm6_field358_corn_2024,ok,10,4.81,126,20231108,20240224
+Brazil_DUP2_farm6_field380_corn_2024,ok,11,4.8,126,20231108,20240307
+Brazil_DUP2_farm6_field406_corn_2024,ok,10,4.81,126,20231108,20240224
+Brazil_DUP2_farm6_field411_corn_2024,ok,10,4.82,126,20231108,20240224
+Brazil_DUP2_farm6_field423_corn_2024,ok,11,4.79,126,20231108,20240307
+Brazil_DUP2_farm6_field439_corn_2024,ok,11,4.79,126,20231108,20240307
+Brazil_DUP2_farm6_field443_corn_2024,ok,11,4.79,126,20231108,20240307
+Brazil_DUP2_farm6_field458_corn_2024,ok,11,4.8,126,20231108,20240307
+Brazil_DUP2_farm8_field491_soybean_2024,ok,9,4.82,126,20230921,20231226
+Brazil_DUP2_farm8_field492_soybean_2024,ok,10,4.83,126,20230921,20240107
+Brazil_DUP2_farm8_field493_soybean_2024,ok,10,4.83,126,20230921,20240107
+Brazil_DUP2_farm8_field494_soybean_2024,ok,10,4.83,126,20230921,20240107
+Brazil_DUP2_farm8_field495_soybean_2024,ok,9,4.82,126,20230921,20231226
+Brazil_DUP2_farm8_field496_soybean_2024,ok,9,4.83,126,20230921,20231226
+Brazil_DUP2_farm8_field497_soybean_2024,ok,10,4.82,126,20230921,20240107
+Brazil_DUP2_farm8_field498_soybean_2024,ok,9,4.84,126,20230921,20231226
+Argentina_DUP1_farm35_field345_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm35_field346_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm35_field347_soybean_2022,no S1 coverage,0,0
+Argentina_DUP1_farm35_field348_soybean_2022,no S1 coverage,0,0
+Argentina_DUP1_farm35_field349_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm35_field351_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm35_field353_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm35_field355_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm35_field356_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm35_field357_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field369_soybean_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field370_soybean_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field371_soybean_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field372_soybean_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field373_soybean_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field374_soybean_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field375_soybean_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field376_soybean_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field377_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field378_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field379_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field380_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field381_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field382_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field383_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field384_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field385_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field386_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field387_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field388_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field389_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field390_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field391_soybean_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field392_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm51_field683_wheat_2022,no S1 coverage,0,0
+Argentina_DUP1_farm51_field684_wheat_2022,no S1 coverage,0,0
+Argentina_DUP1_farm51_field685_wheat_2022,no S1 coverage,0,0
+Argentina_DUP1_farm25_field240_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field241_soybean_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field242_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field243_soybean_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field244_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field245_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field246_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field247_soybean_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field248_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field249_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field250_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field251_soybean_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field252_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field253_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field254_soybean_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field255_soybean_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field256_soybean_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field257_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field258_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field259_soybean_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field260_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field261_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field262_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field263_soybean_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field264_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field265_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field266_soybean_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field267_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm26_field269_soybean_2023,no S1 coverage,0,0
+Argentina_DUP1_farm35_field350_soybean_2023,no S1 coverage,0,0
+Argentina_DUP1_farm35_field345_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm35_field346_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm35_field347_soybean_2022,no S1 coverage,0,0
+Argentina_DUP1_farm35_field348_soybean_2022,no S1 coverage,0,0
+Argentina_DUP1_farm35_field349_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm35_field351_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm35_field353_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm35_field355_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm35_field356_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm35_field357_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field369_soybean_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field370_soybean_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field371_soybean_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field372_soybean_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field373_soybean_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field374_soybean_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field375_soybean_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field376_soybean_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field377_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field378_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field379_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field380_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field381_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field382_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field383_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field384_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field385_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field386_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field387_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field388_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field389_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field390_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field391_soybean_2022,no S1 coverage,0,0
+Argentina_DUP1_farm36_field392_corn_2022,no S1 coverage,0,0
+Argentina_DUP1_farm51_field683_wheat_2022,no S1 coverage,0,0
+Argentina_DUP1_farm51_field684_wheat_2022,no S1 coverage,0,0
+Argentina_DUP1_farm51_field685_wheat_2022,no S1 coverage,0,0
+Argentina_DUP1_farm25_field240_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field241_soybean_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field242_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field243_soybean_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field244_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field245_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field246_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field247_soybean_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field248_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field249_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field250_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field251_soybean_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field252_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field253_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field254_soybean_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field255_soybean_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field256_soybean_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field257_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field258_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field259_soybean_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field260_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field261_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field262_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field263_soybean_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field264_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field265_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field266_soybean_2023,no S1 coverage,0,0
+Argentina_DUP1_farm25_field267_corn_2023,no S1 coverage,0,0
+Argentina_DUP1_farm26_field269_soybean_2023,no S1 coverage,0,0
+Argentina_DUP1_farm35_field350_soybean_2023,no S1 coverage,0,0
