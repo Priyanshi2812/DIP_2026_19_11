@@ -1,0 +1,37 @@
+FIELDS: 1206; optical data already downloaded for 1206; to download now: 0
+CLOUD MASK: Cloud Score+ >= 0.6 (top-of-atmosphere, S2_HARMONIZED); bands B3, B4, B5, B8; mean inside a 110 m square window (about 11 x 11 pixels) around the raw centroid; 6 season bins
+INTERPOLATED ENTRIES: 545 of 21708 field-index-bin rows (2.5%); fields with fewer than 2 clear images are left out: 0
+FIELDS WITH OPTICAL FEATURES: 1206 of 1206 (no clear Sentinel-2 image in the window for 0)
+images per field: median 22, min 4, max 192
+
+OPTICAL RESULTS BY CROP (field season statistics)
+corn     n= 250  NDVI mean 0.484 +/- 0.078   NDVI max 0.779   NDRE mean 0.398   NDWI mean -0.446   NDVI peak at 44% of season
+soybean  n= 698  NDVI mean 0.515 +/- 0.076   NDVI max 0.822   NDRE mean 0.405   NDWI mean -0.483   NDVI peak at 61% of season
+wheat    n= 258  NDVI mean 0.491 +/- 0.096   NDVI max 0.756   NDRE mean 0.391   NDWI mean -0.452   NDVI peak at 54% of season
+
+OPTICAL FEATURES: 36 (NDVI, NDRE, NDWI: season mean/std/max/min/amplitude/peak position + 6-bin profile)
+OPTICAL-ONLY MODELS (5-fold spatial folds, same folds.csv):
+LogReg         accuracy 0.884  macro-F1 0.862  weighted-F1 0.885  (n=1206)
+RandomForest   accuracy 0.780  macro-F1 0.728  weighted-F1 0.780  (n=1206)
+SVM_RBF        accuracy 0.847  macro-F1 0.815  weighted-F1 0.847  (n=1206)
+BEST OPTICAL MODEL: LogReg, macro-F1 0.862
+         corn  soybean  wheat
+corn      224        5     21
+soybean    12      635     51
+wheat      19       32    207
+
+=== FUSION: SAR vs OPTICAL vs FUSED on the 1206 fields that have both ===
+
+summary (macro-F1):
+LogReg         SAR 0.847   optical 0.862   FUSED 0.948
+RandomForest   SAR 0.861   optical 0.728   FUSED 0.895
+SVM_RBF        SAR 0.867   optical 0.815   FUSED 0.914
+
+EVIDENCE (RandomForest, every field predicted once by the spatial folds):
+per-crop F1 SAR only      corn=0.758  soybean=0.925  wheat=0.901
+per-crop F1 optical only  corn=0.698  soybean=0.870  wheat=0.615
+per-crop F1 FUSED         corn=0.820  soybean=0.939  wheat=0.924
+fused right & SAR only wrong: 65 fields; SAR only right & fused wrong: 34 fields; McNemar p = 0.002395
+fused right & optical only wrong: 179 fields; optical only right & fused wrong: 21 fields; McNemar p = 1.947e-32
+fused model information share: see feature importances below
+share from optical features 0.37, from SAR features 0.63; top 6: sar_vv_bin5 (0.077), sar_vv_bin4 (0.076), sar_vv_bin3 (0.047), sar_vh_bin4 (0.047), sar_vv_mean (0.046), sar_vh_bin5 (0.041)
