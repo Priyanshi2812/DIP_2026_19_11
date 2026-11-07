@@ -1,0 +1,75 @@
+SAR-ONLY ANALYSIS: 1206 fields, 42 SAR features, 5-fold spatial (10 km block) cross-validation from folds.csv
+
+1) MODEL SCORES (all SAR-only)
+best model by macro-F1: SVM_RBF
+
+2) CONFUSION MATRIX of SVM_RBF (rows = true crop, columns = predicted)
+         corn  soybean  wheat
+corn      199       36     15
+soybean    57      625     16
+wheat      10        5    243
+
+PER-CROP PRECISION / RECALL / F1
+        crop  precision  recall    f1  n_fields
+        corn      0.748   0.796 0.771       250
+     soybean      0.938   0.895 0.916       698
+       wheat      0.887   0.942 0.914       258
+   macro avg      0.858   0.878 0.867      1206
+weighted avg      0.888   0.885 0.886      1206
+    accuracy        NaN     NaN 0.885      1206
+(precision = of the fields called this crop, how many really are; recall = of the real fields of this crop, how many were found)
+
+3) MISCLASSIFICATIONS
+true corn (250 fields): 199 correct (79.6%); wrong: 36 called soybean (14.4%), 15 called wheat (6.0%)
+true soybean (698 fields): 625 correct (89.5%); wrong: 57 called corn (8.2%), 16 called wheat (2.3%)
+true wheat (258 fields): 243 correct (94.2%); wrong: 10 called corn (3.9%), 5 called soybean (1.9%)
+total errors 139 of 1206; corn<->soybean confusions 93 = 67% of all errors
+error rate by country: Argentina=12.6% (n=665), Brazil=10.2% (n=541)
+error rate by season year: 2017=9% (n=78), 2018=9% (n=128), 2019=10% (n=136), 2020=7% (n=181), 2021=6% (n=228), 2022=16% (n=177), 2023=24% (n=180), 2024=10% (n=98)
+Argentina confusion (rows true, columns predicted):
+         corn  soybean  wheat
+corn      108       21      5
+soybean    48      354      7
+wheat       1        2    119
+Brazil confusion (rows true, columns predicted):
+         corn  soybean  wheat
+corn       91       15     10
+soybean     9      271      9
+wheat       9        3    124
+
+4) SEASON-MEAN RADAR VALUES BY CROP (mean +/- sd over fields, dB except ratios)
+VV     corn: -10.877 +/- 1.245   soybean: -10.162 +/- 1.115   wheat: -13.963 +/- 1.557
+VH     corn: -18.011 +/- 1.582   soybean: -17.294 +/- 1.295   wheat: -20.779 +/- 2.149
+VH-VV  corn: -7.134 +/- 0.728   soybean: -7.131 +/- 0.681   wheat: -6.816 +/- 1.060
+VH/VV  corn: 0.205 +/- 0.030   soybean: 0.205 +/- 0.030   wheat: 0.231 +/- 0.044
+RVI    corn: 0.672 +/- 0.082   soybean: 0.670 +/- 0.080   wheat: 0.731 +/- 0.119
+
+HOW WELL EACH QUANTITY SEPARATES TWO CROPS ALONE (AUC from the season-mean value; 0.5 = no separation, 1.0 = perfect)
+VV     corn-soybean 0.67   corn-wheat 0.92   soybean-wheat 0.96
+VH     corn-soybean 0.63   corn-wheat 0.85   soybean-wheat 0.91
+VH-VV  corn-soybean 0.51   corn-wheat 0.61   soybean-wheat 0.61
+VH/VV  corn-soybean 0.51   corn-wheat 0.68   soybean-wheat 0.69
+RVI    corn-soybean 0.51   corn-wheat 0.66   soybean-wheat 0.66
+
+5) FEATURE IMPORTANCE (Random Forest; permutation importance measured on held-out spatial folds = drop in macro-F1 when a feature is shuffled)
+TOP 10 SAR FEATURES
+         feature family  permutation_drop_macroF1  rf_importance
+     sar_vv_bin5     VV                    0.0246         0.1187
+sar_vv_peak_frac     VV                    0.0212         0.0616
+     sar_vv_bin4     VV                    0.0210         0.0986
+     sar_vh_bin5     VH                    0.0162         0.0600
+     sar_vh_bin6     VH                    0.0087         0.0344
+      sar_vv_std     VV                    0.0055         0.0215
+     sar_vv_bin2     VV                    0.0045         0.0263
+sar_vh_peak_frac     VH                    0.0044         0.0277
+     sar_vh_mean     VH                    0.0044         0.0212
+     sar_rvi_std    RVI                    0.0038         0.0076
+
+6) CONTRIBUTION OF VV, VH, VH-VV, VH/VV AND RVI
+all 42 features: macro-F1 0.861 (Random Forest, 200 trees)
+VV     12 features | share of Random Forest importance 54.3% | alone macro-F1 0.840 | without it macro-F1 0.830 (change -0.031)
+VH     12 features | share of Random Forest importance 30.2% | alone macro-F1 0.810 | without it macro-F1 0.842 (change -0.019)
+VH-VV   6 features | share of Random Forest importance  5.0% | alone macro-F1 0.615 | without it macro-F1 0.858 (change -0.003)
+VH/VV   6 features | share of Random Forest importance  5.3% | alone macro-F1 0.618 | without it macro-F1 0.869 (change +0.008)
+RVI     6 features | share of Random Forest importance  5.1% | alone macro-F1 0.617 | without it macro-F1 0.861 (change +0.000)
+Note: the five families overlap (VH-VV, VH/VV and RVI are all built from VV and VH), so removing one changes little when the others carry the same information.

@@ -9,7 +9,7 @@ for mod, p in [("numpy","numpy"),("pandas","pandas"),("rasterio","rasterio"),("s
 warnings.filterwarnings("ignore")
 import numpy as np, pandas as pd
 
-BASE = r"C:\Users\Hp\OneDrive\Documents\sar_project"
+BASE = r"C:\sar_project"
 LIMIT = None
 N_BINS = 6
 WIN = 11                     # fallback: 11 x 11 pixel window (110 m) around the raw centroid
@@ -152,7 +152,9 @@ def models():
     if XGBClassifier is not None:
         out["XGBoost"] = lambda: make_pipeline(imp(), XGB())
     else:
-        say("XGBoost is not installed, so it is skipped (pip install xgboost to add it later)")
+        from sklearn.ensemble import HistGradientBoostingClassifier
+        out["GradBoost_sklearn"] = lambda: make_pipeline(imp(), HistGradientBoostingClassifier(max_iter=300, learning_rate=0.07, max_depth=4, class_weight="balanced", random_state=0))
+        say("XGBoost is not installed, so scikit-learn's HistGradientBoosting (the same kind of model, gradient-boosted trees) is used instead")
     return out
 
 def main():
