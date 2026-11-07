@@ -1,116 +1,296 @@
-# SAR-Optical Feature Fusion for Crop Type Classification
+# SAR--Optical Feature Fusion for Crop Type Classification
 
-**Multimodal Remote Sensing | Digital Image Processing | Agricultural Computer Vision**
+**Multimodal Remote Sensing \| Agricultural Computer Vision \| Machine
+Learning**
 
 ## Overview
 
-Crop type classification using satellite imagery can support agricultural monitoring and large-scale land-use analysis. However, optical imagery and Synthetic Aperture Radar (SAR) capture different characteristics of the Earth's surface.
+Crop type classification using satellite imagery supports agricultural
+monitoring, land-use analysis, and precision agriculture. Optical and
+Synthetic Aperture Radar (SAR) imagery capture complementary
+characteristics of the Earth's surface.
 
-This project explores the integration of Sentinel-2 optical features and Sentinel-1 SAR backscatter features to investigate their potential for distinguishing major crop types, including corn, soybean, and wheat.
-
-The goal is to develop a reproducible processing pipeline that extracts, analyses, and combines complementary satellite-derived features for crop classification.
+This project develops a multimodal, feature-based classification
+pipeline combining **Sentinel-2 optical features** and **Sentinel-1 SAR
+features** to classify **Corn, Soybean, and Wheat**.
 
 ## Objectives
 
-- Process and analyse Sentinel-2 optical imagery.
-- Calculate vegetation indices such as the Normalized Difference Vegetation Index (NDVI).
-- Inspect Sentinel-1 VV and VH polarization bands.
-- Develop a consistent feature extraction and integration pipeline.
-- Investigate the contribution of optical and SAR features to crop type classification.
-- Evaluate classification performance using suitable machine learning methods once the fused dataset is available.
+-   Extract Sentinel-2 optical features and vegetation indices.
+-   Process Sentinel-1 SAR imagery using VV and VH polarization bands.
+-   Integrate complementary optical and SAR features.
+-   Compare SAR-only, Optical-only, and SAR--Optical Fusion approaches.
+-   Evaluate machine learning models using spatial cross-validation.
+-   Analyse feature importance and modality contributions.
 
 ## Methodology
 
-```text
-YieldSAT Samples and Crop Labels
-              |
-      Data Preprocessing
-              |
-       +------+------+
-       |             |
- Sentinel-2      Sentinel-1
- Optical Data    SAR Data
-       |             |
-   NDVI and       VV and VH
-   Spectral       Backscatter
-   Features       Features
-       |             |
-       +------+------+
-              |
-      Feature Integration
-              |
-      Crop Classification
-              |
-     Model Evaluation
+The project follows a feature-level fusion approach.
+
+``` text
+          YieldSAT Dataset
+       (Field Samples and Labels)
+                  |
+          Data Preprocessing
+                  |
+          +-------+-------+
+          |               |
+      Sentinel-2      Sentinel-1
+       Optical           SAR
+          |               |
+     NDVI, NDRE,       VV, VH and
+        NDWI          Derived Features
+          |               |
+          +-------+-------+
+                  |
+          Feature Integration
+                  |
+          SAR–Optical Fusion
+                  |
+        Machine Learning Models
+                  |
+       Spatial Cross-Validation
+                  |
+       Performance Evaluation
 ```
 
-## Preliminary Results
+### Optical Feature Extraction
 
-The current analysis uses 100 optical sample records from Argentina and Brazil.
+Sentinel-2 imagery was used to derive NDVI, NDRE, and NDWI.
 
-| Metric | Preliminary result |
-|---|---:|
-| Total optical records | 100 |
-| Corn samples | 34 |
-| Soybean samples | 34 |
-| Wheat samples | 32 |
-| Mean NDVI | 0.3566 |
-| Minimum NDVI | 0.1884 |
-| Maximum NDVI | 0.6763 |
+NDVI was calculated using the red (B04) and near-infrared (B08) bands:
 
-NDVI was calculated from the Sentinel-2 red (B04) and near-infrared (B08) bands and verified against the supplied values. Exploratory visualizations were generated to examine NDVI distributions, crop-wise variation, and spectral band distributions.
+$$
+NDVI = \frac{B08-B04}{B08+B04}
+$$
 
-The Sentinel-1 component has been explored using a two-band VV/VH test raster. Field-level SAR-optical matching and the final fused feature table remain part of the ongoing implementation.
+### SAR Feature Extraction
+
+Sentinel-1 GRD imagery was accessed through Google Earth Engine using
+the `COPERNICUS/S1_GRD` dataset. The workflow included IW acquisition
+mode filtering, VV and VH polarization selection, consistent orbit
+direction filtering, date-based filtering, median compositing, and
+field-level backscatter feature extraction.
+
+Additional derived radar features represent relationships between VV and
+VH polarization responses.
+
+### Feature Fusion
+
+Optical and SAR features were integrated at the field level using
+matching field identifiers.
+
+  Feature Group     Number of Features
+  --------------- --------------------
+  Optical                           36
+  SAR                               42
+  **Fused**                     **78**
+
+## Dataset
+
+The experiments use YieldSAT-derived agricultural field samples from
+Argentina and Brazil.
+
+  Attribute                  Description
+  -------------------------- ----------------------
+  Total fields               1,206
+  Countries                  Argentina and Brazil
+  Crop classes               Corn, Soybean, Wheat
+  Time period                2017--2024
+  Spatial blocks             76
+  Spatial validation folds   5
+
+## Machine Learning Models
+
+Four classification algorithms were evaluated:
+
+-   Logistic Regression
+-   Random Forest
+-   Support Vector Machine (RBF Kernel)
+-   XGBoost
+
+All three feature approaches were evaluated using the same five-fold
+spatial cross-validation strategy. Median imputation was incorporated
+into the model pipelines to handle missing optical feature values within
+the training process.
+
+## Results and Performance Evaluation
+
+The following table presents the Macro-F1 scores obtained by each
+classifier.
+
+  Model                   SAR-only   Optical-only      Fusion
+  --------------------- ---------- -------------- -----------
+  Logistic Regression        0.847          0.862   **0.948**
+  Random Forest              0.835          0.717   **0.881**
+  SVM (RBF)                  0.867          0.815   **0.914**
+  XGBoost                    0.848          0.790   **0.903**
+
+### Best Model Performance
+
+The Fusion approach with Logistic Regression achieved the highest
+overall performance.
+
+  Metric              Result
+  ----------------- --------
+  Accuracy            95.77%
+  Macro Precision     95.40%
+  Macro Recall        95.00%
+  Macro-F1            94.79%
+  Weighted-F1         95.80%
+
+### Feature Contribution Analysis
+
+The Random Forest Fusion feature importance analysis indicated the
+following modality contributions:
+
+  Modality     Feature Contribution
+  ---------- ----------------------
+  SAR                           63%
+  Optical                       37%
+
+These values represent model-based feature importance and should be
+interpreted as exploratory contributions rather than causal effects.
+
+### Statistical Significance
+
+McNemar's test was used to compare paired classification predictions
+across the three feature approaches.
+
+-   12 paired comparisons were performed across the four classifiers.
+-   11 comparisons showed statistically significant differences at the unadjusted p less than 0.05 level.
+-   The only non-significant comparison was SAR versus Optical using
+    Logistic Regression (p = 0.1604).
+-   Fusion showed statistically significant improvements over both
+    individual modalities across all four classifiers.
+
+## Visual Results
+
+The `Results/` directory contains analysis outputs and visualizations,
+including crop-wise dataset distribution, country-wise and seasonal
+distribution, spatial field distribution, cross-validation fold balance,
+feature importance, modality contribution, accuracy and Macro-F1
+comparisons, and classification confusion matrices.
+
+### Key Visualizations
+
+**1. Macro-F1 Comparison**
+
+![Macro-F1 Comparison](Results/macro_f1_comparison.png)
+
+**2. Fusion Confusion Matrix**
+
+![Fusion Confusion Matrix](Results/fusion_confusion_matrix.png)
+
+**3. Feature Importance**
+
+![Fusion Feature Importance](Results/Fusion_feature_importance.png)
+
+For detailed experimental results, feature-level analysis, and
+additional visualizations, refer to the `Results/` directory.
 
 ## Technology Stack
 
-- **Language:** Python
-- **Data processing:** NumPy, Pandas
-- **Geospatial raster processing:** Rasterio
-- **Visualisation:** Matplotlib
-- **Satellite data access:** Google Earth Engine
-- **Development environment:** Google Colab and Jupyter Notebook
-- **Planned classification:** Scikit-learn
+  Category                    Tools and Technologies
+  --------------------------- --------------------------------
+  Programming Language        Python
+  Data Processing             NumPy, Pandas
+  Machine Learning            Scikit-learn, XGBoost
+  Satellite Data Processing   Google Earth Engine
+  Remote Sensing Data         Sentinel-1, Sentinel-2
+  Geospatial Processing       Rasterio
+  Visualization               Matplotlib
+  Development Environment     Google Colab, Jupyter Notebook
+  Version Control             Git, GitHub
 
 ## Repository Structure
 
-```text
-.
+``` text
 ├── Codes/
-│   └── SAR_Optical_Integrated_Pipeline.ipynb
-├── Results/
-│   ├── Week3_crop_counts.csv
-│   ├── Week3_optical_features_verified.csv
-│   └── Week3_data_quality_summary.csv
-├── Reports/
+│   ├── SAR_Optical_Feature_Fusion.ipynb
+│   ├── SAR_Optical_Integrated_Pipeline.ipynb
+│   ├── Alignment_Code.ipynb
+│   ├── Optical_Features.ipynb
+│   ├── Data_Analysis.ipynb
+│   ├── evaluation.py
+│   └── Supporting scripts and documentation
+│
 ├── Literature_Review/
+│   └── papers/
+│
+├── Results/
+│   ├── SAR_Analysis/
+│   └── Analysis outputs, CSVs and visualizations
+│
+├── Reports/
+│   └── Week 1–8 reports
+│
 ├── Mid_Sem_Report/
+│   └── Group-11_Mid_Sem_Report.pdf
+│
 ├── End_Sem_Report/
+│   └── Group-11_End_Sem_Report.pdf
+│
 └── README.md
 ```
 
 ## Getting Started
 
-1. Clone or download this repository.
-2. Open the notebook in Google Colab or Jupyter Notebook.
-3. Install the required Python libraries if they are not already available.
-4. Provide the input CSV files and SAR test raster referenced by the notebook.
-5. Run the notebook cells in sequence to reproduce the current optical analysis, visualizations, and SAR data-quality checks.
+1.  Clone the repository:
 
-The full YieldSAT dataset is not included in this repository because of its large size. Access to the original data and its associated metadata is required for reproducing the complete workflow.
+    ``` bash
+    git clone https://github.com/Priyanshi2812/DIP_2026_19_11.git
+    cd DIP_2026_19_11
+    ```
 
-## Current Scope and Next Steps
+2.  Install the required dependencies:
 
-The current implementation establishes the preliminary optical analysis and SAR raster inspection components. The next stage is to validate the spatial metadata, obtain matching Sentinel-1 features for the optical samples, and construct a fused feature table.
+    ``` bash
+    pip install numpy pandas matplotlib scikit-learn rasterio xgboost
+    ```
 
-Further work will focus on additional spectral and radar features, feature-level analysis, and machine learning experiments comparing optical-only, SAR-only, and combined inputs.
+3.  Open the consolidated Jupyter notebook in Google Colab or Jupyter
+    Notebook.
 
-## Data and Reproducibility
+4.  Configure the input dataset paths and Google Earth Engine access
+    where required.
 
-The project uses YieldSAT-derived sample records and Sentinel satellite data. Dataset access, licensing, and attribution requirements should be followed when reusing or redistributing the data.
+5.  Execute the notebook cells to reproduce feature preparation, model
+    evaluation, and analysis.
 
-The repository is intended to maintain the processing code, derived outputs, and documentation needed to track and reproduce the analysis.
+**Data availability:** The complete YieldSAT dataset and original
+satellite imagery are not redistributed in this repository. Access to
+the required source data and metadata is necessary to reproduce the
+complete workflow.
 
-## Author
+## Limitations
 
-Developed as a Digital Image Processing project focused on multimodal satellite imagery and agricultural crop classification.
+-   Imbalanced crop distribution, with soybean representing the largest
+    class.
+-   Uneven geographic distribution of fields across Argentina and
+    Brazil.
+-   Temporal and seasonal variations across the dataset.
+-   Missing or invalid field geometries and unavailable SAR acquisitions
+    for some samples.
+-   Results are based on five-fold spatial cross-validation and may vary
+    with different spatial partitions.
+
+## Conclusion
+
+This project demonstrates the application of multimodal satellite
+feature fusion for agricultural crop type classification.
+
+The integration of Sentinel-1 SAR and Sentinel-2 optical features
+improved classification performance compared with individual feature
+approaches. The Fusion Logistic Regression model achieved **95.77%
+accuracy** and **94.79% Macro-F1**, highlighting the value of combining
+complementary remote-sensing information.
+
+The project provides a feature-based machine learning pipeline for
+analysing agricultural satellite data and classifying major crop types.
+
+## Project Background
+
+Originally developed as a Digital Image Processing (DIP) project, this
+work explores the intersection of remote sensing, machine learning, and
+agricultural computer vision.
