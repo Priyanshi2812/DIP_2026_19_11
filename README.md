@@ -1,4 +1,4 @@
-# SAR--Optical Feature Fusion for Crop Type Classification
+# SAR - Optical Feature Fusion for Crop Type Classification
 
 **Multimodal Remote Sensing \| Agricultural Computer Vision \| Machine
 Learning**
@@ -174,20 +174,30 @@ comparisons, and classification confusion matrices.
 
 ### Key Visualizations
 
-**1. Macro-F1 Comparison**
+### Key Visualizations
 
-![Macro-F1 Comparison](Results/macro_f1_comparison.png)
-
-**2. Fusion Confusion Matrix**
+**1. Fusion Confusion Matrix**
 
 ![Fusion Confusion Matrix](Results/fusion_confusion_matrix.png)
 
-**3. Feature Importance**
+**2. Optical Confusion Matrix**
+
+![Optical Confusion Matrix](Results/optical_confusion_matrix.png)
+
+**3. SAR Confusion Matrix**
+
+![SAR Confusion Matrix](Results/sar_confusion_matrix.png)
+
+**4. Fusion Feature Importance**
 
 ![Fusion Feature Importance](Results/Fusion_feature_importance.png)
 
-For detailed experimental results, feature-level analysis, and
-additional visualizations, refer to the `Results/` directory.
+**5. SAR and Optical Contribution**
+
+![SAR-Optical Contribution](Results/Fusion_SAR_Optical_Contribution.png)
+
+- For detailed experimental results, feature-level analysis, and additional visualizations, refer to the `Results/` directory.
+
 
 ## Technology Stack
 
