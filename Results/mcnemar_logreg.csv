@@ -1,0 +1,4 @@
+Comparison,First_correct_only,Second_correct_only,p_value
+SAR vs Optical,101,123,0.1604302391196825
+SAR vs Fusion,9,120,6.501235288164661e-26
+Optical vs Fusion,23,112,3.028830399743235e-15

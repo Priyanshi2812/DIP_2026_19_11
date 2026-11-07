@@ -1,0 +1,13 @@
+Comparison,First_correct_only,Second_correct_only,p_value,Model,Significant
+SAR vs Optical,101,123,0.1604302391196825,LogReg,False
+SAR vs Fusion,9,120,6.501235288164661e-26,LogReg,True
+Optical vs Fusion,23,112,3.028830399743235e-15,LogReg,True
+SAR vs Optical,189,87,7.801154900335474e-10,RandomForest,True
+SAR vs Fusion,26,65,5.311762926784264e-05,RandomForest,True
+Optical vs Fusion,38,179,4.4737352671890677e-23,RandomForest,True
+SAR vs Optical,147,101,0.004177159458812153,SVM_RBF,True
+SAR vs Fusion,36,88,3.3919214577622724e-06,SVM_RBF,True
+Optical vs Fusion,24,122,5.32713230351354e-17,SVM_RBF,True
+SAR vs Optical,145,95,0.0015088543665791028,XGBoost,True
+SAR vs Fusion,25,78,1.6099271769508826e-07,XGBoost,True
+Optical vs Fusion,35,138,1.1489247664502865e-15,XGBoost,True

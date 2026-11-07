@@ -1,0 +1,10 @@
+Model,Comparison,First_correct_only,Second_correct_only,p_value
+RandomForest,SAR vs Optical,189,87,7.801154900335474e-10
+RandomForest,SAR vs Fusion,26,65,5.311762926784264e-05
+RandomForest,Optical vs Fusion,38,179,4.4737352671890677e-23
+SVM_RBF,SAR vs Optical,147,101,0.004177159458812153
+SVM_RBF,SAR vs Fusion,36,88,3.3919214577622724e-06
+SVM_RBF,Optical vs Fusion,24,122,5.32713230351354e-17
+XGBoost,SAR vs Optical,145,95,0.0015088543665791028
+XGBoost,SAR vs Fusion,25,78,1.6099271769508826e-07
+XGBoost,Optical vs Fusion,35,138,1.1489247664502865e-15
