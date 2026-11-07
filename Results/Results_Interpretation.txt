@@ -1,0 +1,45 @@
+OPTICAL AND FUSION MODEL ANALYSIS
+
+MODEL SUMMARY
+Approach        Model  Accuracy  Macro Precision  Macro Recall  Macro F1  Weighted F1
+ Optical       LogReg  0.883914         0.855102      0.869356  0.861695     0.885355
+ Optical RandomForest  0.780265         0.729399      0.726068  0.727680     0.779871
+ Optical      SVM_RBF  0.846600         0.816341      0.813482  0.814816     0.846663
+  Fusion       LogReg  0.957711         0.945993      0.949777  0.947865     0.957795
+  Fusion RandomForest  0.911277         0.890409      0.898990  0.894516     0.911352
+  Fusion      SVM_RBF  0.927861         0.919892      0.907974  0.913740     0.927496
+
+PER-CROP CLASSIFICATION REPORT
+Approach        Model    Crop  Precision   Recall  F1 Score  Support
+ Optical       LogReg    corn   0.878431 0.896000  0.887129    250.0
+ Optical       LogReg soybean   0.944940 0.909742  0.927007    698.0
+ Optical       LogReg   wheat   0.741935 0.802326  0.770950    258.0
+ Optical RandomForest    corn   0.707819 0.688000  0.697769    250.0
+ Optical RandomForest soybean   0.866477 0.873926  0.870185    698.0
+ Optical RandomForest   wheat   0.613900 0.616279  0.615087    258.0
+ Optical      SVM_RBF    corn   0.826446 0.800000  0.813008    250.0
+ Optical      SVM_RBF soybean   0.900143 0.904011  0.902073    698.0
+ Optical      SVM_RBF   wheat   0.722433 0.736434  0.729367    258.0
+  Fusion       LogReg    corn   0.928854 0.940000  0.934394    250.0
+  Fusion       LogReg soybean   0.978355 0.971347  0.974838    698.0
+  Fusion       LogReg   wheat   0.930769 0.937984  0.934363    258.0
+  Fusion RandomForest    corn   0.820000 0.820000  0.820000    250.0
+  Fusion RandomForest soybean   0.947522 0.931232  0.939306    698.0
+  Fusion RandomForest   wheat   0.903704 0.945736  0.924242    258.0
+  Fusion      SVM_RBF    corn   0.871901 0.844000  0.857724    250.0
+  Fusion      SVM_RBF soybean   0.939776 0.961318  0.950425    698.0
+  Fusion      SVM_RBF   wheat   0.948000 0.918605  0.933071    258.0
+
+SAR VS OPTICAL VS FUSION COMPARISON
+Approach        Model  Accuracy  Macro F1
+     SAR       LogReg  0.866000  0.847000
+     SAR RandomForest  0.886000  0.861000
+     SAR      SVM_RBF  0.885000  0.867000
+ Optical       LogReg  0.883914  0.861695
+ Optical RandomForest  0.780265  0.727680
+ Optical      SVM_RBF  0.846600  0.814816
+  Fusion       LogReg  0.957711  0.947865
+  Fusion RandomForest  0.911277  0.894516
+  Fusion      SVM_RBF  0.927861  0.913740
+
+Note: SAR metrics and the 63:37 contribution are taken from the Week 6 report. Optical and Fusion metrics are calculated from the uploaded prediction CSV files.
