@@ -17,17 +17,12 @@ os.makedirs(RESULTS_DIR, exist_ok=True)
 
 
 def evaluate_models(data, cols, models, tag):
-    """
-    Evaluate models using 5-fold spatial cross-validation.
-    Save predictions, metrics, confusion matrices and classification reports.
-    """
 
     data = data.copy().reset_index(drop=True)
 
     labels = sorted(data["label"].unique())
     rows = []
 
-    # Validate input
     assert data["field_id"].is_unique, "Duplicate field IDs found!"
     assert data["fold"].notna().all(), "Missing fold assignments!"
     assert data["label"].notna().all(), "Missing labels!"
@@ -36,7 +31,6 @@ def evaluate_models(data, cols, models, tag):
 
         predictions = np.empty(len(data), dtype=object)
 
-        # Five-fold spatial cross-validation
         for fold in sorted(data["fold"].unique()):
 
             train_mask = data["fold"] != fold
@@ -44,7 +38,6 @@ def evaluate_models(data, cols, models, tag):
 
             model = model_factory()
 
-            # Imputation and scaling are performed inside the model pipeline
             model.fit(
                 data.loc[train_mask, cols],
                 data.loc[train_mask, "label"]
@@ -56,7 +49,6 @@ def evaluate_models(data, cols, models, tag):
 
         y_true = data["label"].to_numpy()
 
-        # Save out-of-fold predictions
         prediction_table = pd.DataFrame({
             "field_id": data["field_id"],
             "label": y_true,
@@ -72,7 +64,7 @@ def evaluate_models(data, cols, models, tag):
             index=False
         )
 
-        # Calculate evaluation metrics
+        # Calculating evaluation metrics
         row = {
             "Approach": tag,
             "Model": name,
@@ -100,7 +92,6 @@ def evaluate_models(data, cols, models, tag):
 
         rows.append(row)
 
-        # Save confusion matrix
         confusion = confusion_matrix(
             y_true, predictions, labels=labels
         )
@@ -116,7 +107,6 @@ def evaluate_models(data, cols, models, tag):
             )
         )
 
-        # Save detailed classification report
         report = classification_report(
             y_true,
             predictions,
@@ -141,7 +131,6 @@ def evaluate_models(data, cols, models, tag):
             f"Weighted-F1: {row['Weighted_F1']:.4f}"
         )
 
-    # Save combined results
     result_frame = pd.DataFrame(rows)
 
     result_frame.to_csv(
